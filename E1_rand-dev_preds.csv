@@ -1,0 +1,571 @@
+sense_id,lemma,definition,gold,raw,pred,status
+ws_1_béruguette__nom__1,béruguette,Variété d’olive allongée à pulpe ferme.,inanimate,inanimate,inanimate,valid
+ws_1_Reguinois__nom__1,Reguinois,"Habitant de Réguiny, commune française située dans le département du Morbihan.",animate,inhabitant,INVALID,none
+ws_1_Saint-Hippolytaise__nom__1,Saint-Hippolytaise,"Habitante de Saint-Hippolyte-de-Montaigu, commune française située dans le département du Gard.",animate,institution,institution,valid
+ws_1_butan-1-ol__nom__1,butan-1-ol,Alcool primaire de formule semi-développée CH3-(CH2)3-OH.,inanimate,inanimate,inanimate,valid
+ws_1_déléguée_à_la_protection_des_données__nom__1,déléguée_à_la_protection_des_données,"Spécialiste de la mise en conformité légale des données stockées, notamment dans le cadre du RGPD.",animate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_fil_espaceur__nom__1,fil_espaceur,Fil métallique enroulé en hélice autour de chacune des aiguilles du cœur d’un réacteur à neutrons rapides pour éviter le contact entre ces aiguilles et permettre la circulation du caloporteur.,inanimate,inanimate,inanimate,valid
+ws_1_galerie_marchande_en_ligne__nom__1,galerie_marchande_en_ligne,Site Internet d’e-commerce partagé par plusieurs commerçants.,information,dynamic_situation*information,dynamic_situation*information,valid
+ws_2_glougloutement__nom__1,glougloutement,Cri du dindon.,other,inanimate*information,inanimate*information,valid
+ws_1_saillot__nom__1,saillot,Synonyme de baudroie (poisson).,animate,inanimate,inanimate,valid
+ws_1_microsystème__nom__1,microsystème,Assemblage de dispositifs de taille micrométrique.,information,inanimate,inanimate,valid
+ws_1_Drefféenne__nom__1,Drefféenne,"Habitante de Drefféac, commune française située dans le département de la Loire-Atlantique.",animate,institution,institution,valid
+ws_7_flux__nom__1,flux,"Transfert de biens, de service, d’argent ou de personnes.",dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_Beaupéen__nom__1,Beaupéen,"Habitant de Beaupuy, commune française située dans le département de la Haute-Garonne.",animate,institution,institution,valid
+ws_1_vergobret__nom__1,vergobret,Magistrat suprême de certaines cités gauloises.,animate,institution,institution,valid
+ws_1_Montjoyeuse__nom__1,Montjoyeuse,"Habitante de Montjoie-Saint-Martin, commune française située dans le département de la Manche.",animate,institution,institution,valid
+ws_1_Lauriote__nom__1,Lauriote,"Habitante de Laurie, commune française située dans le département du Cantal.",animate,institution,institution,valid
+ws_1_Fulvien__nom__1,Fulvien,"Habitant de Fulvy, commune française située dans le département de l’Yonne.",animate,institution,institution,valid
+ws_1_amande_de_Perse__nom__1,amande_de_Perse,Synonyme de pistache.,inanimate,inanimate,inanimate,valid
+ws_1_Puisementine__nom__1,Puisementine,"Habitante de Puits-et-Nuisement, commune française située dans le département de l’Aube.",animate,institution,institution,valid
+ws_2_théâtre_d’ombres__nom__1,théâtre_d’ombres,"Situation dans laquelle l’on ne sait pas qui est qui, qui fait quoi et pour quels buts.",stative_situation,dynamic_situation,dynamic_situation,valid
+ws_1_interlocutrice__nom__1,interlocutrice,"Femme avec qui l’on converse, qui participe à une conversation.",animate,dynamic_situation*information,dynamic_situation*information,valid
+ws_8_canal__nom__1,canal,"Voie, moyen, entremise dont on se sert pour quelque chose.",information,dynamic_situation*information,dynamic_situation*information,valid
+ws_4_traînerie__nom__1,traînerie,"Pagaille, fouillis.",stative_situation,inanimate,inanimate,valid
+ws_1_beatbox__nom__1,beatbox,Musique vocale consistant à imiter des instruments.,other,inanimate*information,inanimate*information,valid
+ws_4_Savinien__nom__1,Savinien,"Habitant de Savigny-sur-Braye, commune du Loir-et-Cher.",animate,inhabitant,INVALID,none
+ws_10_abattage__nom__1,abattage,"Vigueur, entrain.",stative_situation,dynamic_situation,dynamic_situation,valid
+ws_1_CapV__nom__1,CapV,Capitaine de vaisseau.,animate,inanimate,inanimate,valid
+ws_4_trophée__nom__1,trophée,Panoplie d’armes suspendues au mur.,other,inanimate,inanimate,valid
+ws_1_frères__nom__1,frères,L’ensemble des personnes qui sont les frères les uns des autres.,animate,institution,institution,valid
+ws_1_plan_Orsec__nom__1,plan_Orsec,Plan qui définit l’organisation des secours quand il faut faire face à des situations exceptionnelles.,information,dynamic_situation,dynamic_situation,valid
+ws_1_NTIC__nom__1,NTIC,"Techniques utilisées dans le traitement et la transmission des informations, principalement de l’informatique, de l’Internet et des télécommunications.",dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_mandrite__nom__1,mandrite,"Moine de l’église catholique d’Orient, résidant dans une mandre",animate,institution,institution,valid
+ws_1_immam__nom__1,immam,Variante de imam.,animate,informaton*information,INVALID,none
+ws_1_Seyssois__nom__1,Seyssois,"Habitant de Seysses, commune française située dans le département de la Haute-Garonne.",animate,institution,institution,valid
+ws_1_sigmatisme_nasal__nom__1,sigmatisme_nasal,"Passage d’une partie de l’air dans le nez lors de la production du /s/. Il s’agit d’une mauvaise maîtrise de l’occlusion du voile du palais. La langue bloque l’écoulement dans la bouche, ainsi, l’air ne peut alors s’écouler que par le nez.",dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_Vermellois__nom__1,Vermellois,"Habitant de Vermelles, commune française située dans le département du Pas-de-Calais.",animate,institution,institution,valid
+ws_1_Loyard__nom__1,Loyard,"Habitant de Loyes, ancienne commune française située dans le département de l’Ain.",animate,institution,institution,valid
+ws_2_broutement__nom__1,broutement,Saccade qu’éprouve le tour à guillocher ou godronner.,dynamic_situation,stative_situation,stative_situation,valid
+ws_1_mûreraie__nom__1,mûreraie,Terrain planté de mûriers.,inanimate,inanimate*information,inanimate*information,valid
+ws_6_flamme__nom__1,flamme,"Ornement en forme de flamme qui termine des vases, des candélabres.",inanimate,inanimate,inanimate,valid
+ws_1_quizalofop_éthyl_isomère_D__nom__1,quizalofop_éthyl_isomère_D,Synonyme de quizalofop-p-éthyl,inanimate,inanimate*information,inanimate*information,valid
+ws_1_roidissage__nom__1,roidissage,Variante de raidissage → voir roidir.,other,inanimate*information,inanimate*information,valid
+ws_1_Ninvilloise__nom__1,Ninvilloise,"Habitante de Ninville, commune française située dans le département de la Haute-Marne.",animate,institution,institution,valid
+ws_3_Beaumontais__nom__1,Beaumontais,"Habitant de Beaumont-de-Pertuis, commune française située dans le département du Vaucluse.",animate,institution,institution,valid
+ws_1_Saint-Antoinais__nom__1,Saint-Antoinais,"Habitant de Saint-Antoine-de-Breuilh, commune française située dans le département de la Dordogne.",animate,inhabitant,INVALID,none
+ws_1_fossette__nom__1,fossette,Petit creux formé sur certaines parties du corps.,inanimate,inanimate,inanimate,valid
+ws_1_berdin__nom__2,berdin,"Melophagus ovinus, pou du mouton",animate,inanimate,inanimate,valid
+ws_2.a_bâtardage__nom__1,bâtardage,"Action de bâtarder, mélanger de la chaux et du ciment.",dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_Champneuvillois__nom__1,Champneuvillois,"Habitant de Champneuville, commune française située dans le département de la Meuse.",animate,institution,institution,valid
+ws_1_Flobecquoise__nom__1,Flobecquoise,Habitante de Flobecq en Belgique.,animate,inanimate,inanimate,valid
+ws_1_venaison__nom__1,venaison,"Chair de grand gibier, comme le cerf, le daim, le chevreuil, le sanglier, etc.",inanimate,inanimate,inanimate,valid
+ws_1_inconséquent__nom__1,inconséquent,Personnage qui fait preuve d’inconséquence.,animate,inanimate,inanimate,valid
+ws_1_CNESST__nom__1,CNESST,"Commission des normes, de l’équité, de la santé et de la sécurité du travail.",other,institution,institution,valid
+ws_1_terpan__nom__1,terpan,Surélévation artificielle du sol où sont construites les fermes pour être protégées des inondations en Frise.,inanimate,inanimate*information,inanimate*information,valid
+ws_3_pilule_rouge__nom__1,pilule_rouge,L’une de ces mêmes vérités ou pseudo-vérités.,information,stative_situation,stative_situation,valid
+ws_1_coudran__nom__1,coudran,Variante de goudron.,inanimate,inanimate,inanimate,valid
+ws_2_homme_de_paille__nom__1,homme_de_paille,Technique consistant à présenter la position de son adversaire de façon volontairement erronée avant de la réfuter.,information,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_trémissis__nom__1,trémissis,Monnaie d’or valant le tiers du solidus.,possession,inanimate,inanimate,valid
+ws_1_sans-dents__nom__1,sans-dents,Personne de condition modeste.,animate,inanimate,inanimate,valid
+ws_1_Collongeoise__nom__1,Collongeoise,"Habitante de Collonge-en-Charollais, commune française située dans le département de la Saône-et-Loire.",animate,institution,institution,valid
+ws_1_craillon__nom__1,craillon,Dette criarde.,possession,inanimate,inanimate,valid
+ws_2_bébé_adulte__nom__1,bébé_adulte,Adulte ayant l’apparence physique d’un bébé.,animate,inanimate,inanimate,valid
+ws_1_Leymoise__nom__1,Leymoise,"Habitante de Leyme, commune française située dans le département du Lot.",animate,institution,institution,valid
+ws_1_dobra__nom__1,dobra,Unité monétaire de Sao Tomé-et-Principe.,quantity,institution,institution,valid
+ws_1_pholiote_du_peuplier__nom__1,pholiote_du_peuplier,"Espèce de champignons à lames adhérentes, serrées, au chapeau brun puis clair, et au pied avec anneau persistant, poussant en touffe sur des souches.",inanimate,inanimate,inanimate,valid
+ws_1_Calésien__nom__1,Calésien,"Habitant de Calès, commune française située dans le département du Lot.",animate,institution,institution,valid
+ws_1_coefficient_d’infiltration_efficace__nom__1,coefficient_d’infiltration_efficace,Fraction du volume des précipitations alimentant une nappe.,quantity,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_racine_de_nez__nom__1,racine_de_nez,Partie la plus haute du nez.,inanimate,inanimate,inanimate,valid
+ws_1_Archiacais__nom__1,Archiacais,"Habitant d’Archiac, commune de la Charente-Maritime.",animate,inhabitant,INVALID,none
+ws_15_dame__nom__1,dame,"Outil de travaux publics, muni de deux anses, ou doté d’un manche, servant à tasser le sol ou à enfoncer des pavés.",inanimate,inanimate,inanimate,valid
+ws_1_raisonneur__nom__1,raisonneur,"Celui qui raisonne, qui fait des raisonnements.",animate,stative_situation,stative_situation,valid
+ws_1_âge_nubile__nom__1,âge_nubile,Âge à partir duquel on a la possibilité de se marier.,stative_situation,stative_situation,stative_situation,valid
+ws_5_Verdunois__nom__1,Verdunois,"Habitant de Verdun-sur-Garonne, commune française située dans le département du Tarn-et-Garonne.",animate,institution,institution,valid
+ws_2_langage_métissé__nom__1,langage_métissé,Langage contenant des morceaux de codes d’un autre.,information,inanimate*information,inanimate*information,valid
+ws_1_sizenier__nom__1,sizenier,Variante de sizainier.,animate,inanimate*information,inanimate*information,valid
+ws_1_millet_indigène__nom__1,millet_indigène,Une espèce annuelle de la famille des poacées (Poaceae) originaire d’Afrique qui est une céréale mineure cultivée pour l’alimentation de l’homme et des animaux.,other,inanimate,inanimate,valid
+ws_1_gène_extrachromosomique__nom__1,gène_extrachromosomique,"Gène qui n’est pas localisé dans un chromosome, mais sur un réplicon indépendant.",inanimate,inanimate,inanimate,valid
+ws_1_Laillyloise__nom__1,Laillyloise,"Habitante de Lailly-en-Val, commune française située dans le département du Loiret.",animate,institution,institution,valid
+ws_1_Arboraise__nom__1,Arboraise,"Habitante d’Arbori, commune française située dans le département de la Corse-du-Sud.",animate,institution,institution,valid
+ws_4_chablis__nom__1,chablis,Synonyme de chardonnay blanc.,inanimate,inanimate*information,inanimate*information,valid
+ws_2_assurance_maladie__nom__1,assurance_maladie,"Système d’assurance étatique et universel couvrant différents frais médicaux, notamment les frais d’hôpital et les frais de consultation des médecins et en assurant la gratuité pour les usagers.",institution,institution,institution,valid
+ws_1_masturbé__nom__1,masturbé,"Celui qui est, ou qui s’est masturbé.",animate,stative_situation,stative_situation,valid
+ws_1_gluon__nom__1,gluon,Boson responsable de l’interaction forte.,inanimate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_Burinois__nom__1,Burinois,"Habitant de Bures-les-Monts, commune française située dans le département du Calvados.",animate,institution,institution,valid
+ws_1_autoconfinement__nom__1,autoconfinement,"Fait de s’autoconfiner, d’éviter les contacts avec d’autres personnes.",other,dynamic_situation,dynamic_situation,valid
+ws_11_code__nom__1,code,Système de symboles permettant de représenter une information dans un domaine technique.,other,information,information,valid
+ws_1_Lagide__nom__1,Lagide,"Membre d’une dynastie grecque régnant en Égypte, dont Ptolémée, fils de Lagos et l’un des capitaines d’Alexandre, fut le fondateur.",animate,institution,institution,valid
+ws_1_bélier_hydraulique__nom__1,bélier_hydraulique,Machine qui utilise la force d’une chute d’eau pour en élever une partie à un niveau supérieur ou qui sert à l’épuisement de fouilles ou à la compression de l’eau.,inanimate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_matasiette__nom__1,matasiette,Variante de mataziette.,inanimate,inanimate*information,inanimate*information,valid
+ws_2_cri-cri__nom__1,cri-cri,Le grillon lui-même.,animate,inanimate,inanimate,valid
+ws_1_Denéen__nom__1,Denéen,"Habitant de Denée, commune française située dans le département du Maine-et-Loire.",animate,institution,institution,valid
+ws_4_montant__nom__1,montant,Piquant.,stative_situation,other,other,valid
+ws_1_asiatique__nom__1,asiatique,"Race de chat, originaire d’Angleterre, à tête en triangle court, à queue moyenne et à poil court, issue du burmese.",animate,inanimate,inanimate,valid
+ws_1_Wonderslip__nom__1,Wonderslip,Slip à effet push-up.,inanimate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_Baltzenheimois__nom__1,Baltzenheimois,"Habitant de Baltzenheim, commune française située dans le département du Haut-Rhin.",animate,inhabitants,INVALID,none
+ws_1_préimprégné_en_feuille__nom__1,préimprégné_en_feuille,"Préimprégné destiné à être mis en œuvre par compression, constitué d’une nappe de fibres de verre non tissées, d’une résine thermodurcissable et de charges.thermoplastique.",inanimate,inanimate,inanimate,valid
+ws_1_Chassierois__nom__1,Chassierois,"Habitant de Chassiers, commune française située dans le département de l’Ardèche.",animate,institution,institution,valid
+ws_1_ilienne__nom__1,ilienne,Habitante d’une ile.,animate,inanimate,inanimate,valid
+ws_4_tournée__nom__1,tournée,"Ensemble des consommations des personnes réunies autour d’une même table de café, que l’on paie à tour de rôle.",other,inanimate*information,inanimate*information,valid
+ws_1_Zhejiangosaurus_lishuiensis__nom__1,Zhejiangosaurus_lishuiensis,Type de dinosaure.,animate,institution,institution,valid
+ws_1_gut__nom__1,gut,Rituel chamanique consistant à communiquer avec les esprits.,dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_gynéco__nom__1,gynéco,Gynécologue.,animate,institution,institution,valid
+ws_5_posture__nom__1,posture,Statue.,inanimate,inanimate,inanimate,valid
+ws_3_tropisme__nom__1,tropisme,Orientation des idées.,stative_situation,stative_situation,stative_situation,valid
+ws_2_démonteur__nom__1,démonteur,Ouvrier qui dans une tréfilerie est chargé de démonter et d’entretenir les filières.,animate,inanimate*information,inanimate*information,valid
+ws_1_dépressage__nom__1,dépressage,Action de dépresser.,dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_corépresseur__nom__1,corépresseur,Molécule qui déclenche la répression de la transcription de gènes spécifiques en se fixant au répresseur.,inanimate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_Villarogien__nom__1,Villarogien,"Habitant de Villaroger, commune française située dans le département de la Savoie.",animate,inhabitant,INVALID,none
+ws_1_szmikite__nom__1,szmikite,Sulfate de manganèse hydraté de formule MnSO4 · H2O.,inanimate,inanimate,inanimate,valid
+ws_1_merdeuf__nom__1,merdeuf,Femme absorbée par son rôle de mère de famille.,animate,stative_situation,stative_situation,valid
+ws_1_électret__nom__1,électret,Doublet électrique dont les molécules ont une orientation particulière lui permettant de conserver en permanence ses propriétés.,dynamic_situation,inanimate,inanimate,valid
+ws_1_Allemande__nom__1,Allemande,Habitante de l’Allemagne.,animate,inmate,INVALID,none
+ws_1_Chagossienne__nom__1,Chagossienne,Habitante ou personne originaire de l’archipel des Chagos.,animate,inhabitant,INVALID,none
+ws_1_pupaison__nom__1,pupaison,Transformation d’une larve de diptère en pupe.,dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_2_lourdaud__nom__1,lourdaud,"Individu à l’apparence massive, dénué de grâce.",animate,inanimate,inanimate,valid
+ws_1_Cartelèguais__nom__1,Cartelèguais,"Habitant de Cartelègue, commune française située dans le département de la Gironde.",animate,inhabitant,INVALID,none
+ws_1_apparition_mariale__nom__1,apparition_mariale,Vision miraculeuse de la Vierge Marie par une ou plusieurs personnes.,dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_athéologie__nom__1,athéologie,Concept subvertissant la notion de théologie.,information,stative_situation,stative_situation,valid
+ws_1_éponte__nom__1,éponte,Paroi délimitant une couche ou un filon.,inanimate,inanimate,inanimate,valid
+ws_1_cysticerque__nom__1,cysticerque,Larve de certains ténias et cestodes ressemblant à une vésicule translucide dans laquelle le scolex est invaginé.,animate,inanimate,inanimate,valid
+ws_1_Warlingeoise__nom__1,Warlingeoise,"Habitante de Warlaing, commune française située dans le département du Nord.",animate,institution,institution,valid
+ws_1_lambi__nom__1,lambi,"Nom vernaculaire de Lobatus gigas, un mollusque gastéropode du genre des strombes ; c’est un gros cornet très sinueux dont les marins se servent quelquefois pour corner.",animate,inanimate,inanimate,valid
+ws_1_Echauffourienne__nom__1,Echauffourienne,"Graphie souvent utilisée pour Échauffourienne, la graphie normale ne pouvant être saisie au clavier.",animate,information,information,valid
+ws_1_varioloïde__nom__1,varioloïde,Forme atténuée de la variole.,stative_situation,infection,INVALID,none
+ws_4_laine__nom__1,laine,Poil long qui recouvre certaines parties de plantes.,inanimate,inanimate,inanimate,valid
+ws_5_Flinois__nom__1,Flinois,"Habitant de Flins-sur-Seine, commune française située dans le département des Yvelines.",animate,institution,institution,valid
+ws_1_question_piège__nom__1,question_piège,Question posée dans le but de mettre à l’épreuve la personne interrogée.,dynamic_situation*information,dynamic_situation,dynamic_situation,valid
+ws_1_arménisant__nom__1,arménisant,Spécialiste de la langue ou de la culture arméniennes.,animate,information,information,valid
+ws_1_téléconseiller__nom__1,téléconseiller,Personne qui travaille dans un centre d’appels et qui communique avec ses clients par téléphone.,animate,dynamic_situation,dynamic_situation,valid
+ws_3_courtage__nom__1,courtage,Service d’intermédiaire pour des opérations financières.,institution,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_Bertrevillais__nom__1,Bertrevillais,"Habitant de Bertreville, commune française située dans le département de la Seine-Maritime.",animate,institution,institution,valid
+ws_1_langue_allemande__nom__1,langue_allemande,"L’allemand, une des langues germaniques.",information,inanimate,inanimate,valid
+ws_1_coronawashing__nom__1,coronawashing,"Procédé mercatique utilisé par un État, organisation, parti politique ou entreprise dans le but de se donner une image positive du fait des aides qu’elle apporte lors de la pandémie de Covid-19 de 2019-2020.",dynamic_situation,influence,INVALID,none
+ws_1_chadèque__nom__1,chadèque,Pamplemousse.,inanimate,inanimate,inanimate,valid
+ws_1_primovacciné__nom__1,primovacciné,Personne qui a reçu une première dose d’un vaccin.,animate,inanimate*information,inanimate*information,valid
+ws_1_novellisation__nom__1,novellisation,Adaptation sous forme de roman.,dynamic_situation,inanimate*information,inanimate*information,valid
+ws_1_assistance_en_ligne__nom__1,assistance_en_ligne,Téléassistance.,animate,dynamic_situation*information,dynamic_situation*information,valid
+ws_6_répertoire__nom__1,répertoire,"Personne amplement pourvue d’informations et de souvenirs, et qui est toujours prête à en instruire les autres.",animate,animate,animate,valid
+ws_1_sécuricode__nom__1,sécuricode,Code de sécurité envoyé par la banque pour valider un achat par Internet.,information,information,information,valid
+ws_1_Gandrangeois__nom__1,Gandrangeois,"Habitant de Gandrange, commune française de la Moselle.",animate,institution,institution,valid
+ws_1_éka-astate__nom__1,éka-astate,Synonyme de ununseptium.,inanimate,institute,INVALID,none
+ws_1_GCL__nom__1,GCL,Abréviation de gestion de la chaîne logistique.,dynamic_situation,information,information,valid
+ws_1_qualité_d’homme__nom__1,qualité_d’homme,Ce qui fait la spécificité humaine.,stative_situation,inanimate,inanimate,valid
+ws_1_Penguilaise__nom__1,Penguilaise,"Habitante de Penguily, commune française située dans le département des Côtes-d’Armor.",animate,institution,institution,valid
+ws_1_ajustabilité__nom__1,ajustabilité,"Le fait de pouvoir ajuster, déplacer dans une meilleure position.",stative_situation,dynamic_situation,dynamic_situation,valid
+ws_1_huile_de_carapate__nom__1,huile_de_carapate,Huile de ricin.,inanimate,inanimate,inanimate,valid
+ws_1_instavidéaste__nom__1,instavidéaste,Personne diffusant en streaming.,animate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_Saint-Genoise__nom__1,Saint-Genoise,"Habitante de Saint-Genis-Laval, commune française située dans le département du Rhône.",animate,institution,institution,valid
+ws_4_cyathe__nom__1,cyathe,"Genre de champignons saprophytes communs (Cyathus) de la famille des agaricacées (auparavant, celle des nidulariacées), dont les fructifications ressemblent à de petits nids d’oiseaux infundibuliformes et tomenteux.",inanimate,inanimate,inanimate,valid
+ws_1_leucocyclite__nom__1,leucocyclite,"Minéral, synonyme désuet d’apophyllite.",inanimate,inanimate,inanimate,valid
+ws_1_Archettois__nom__1,Archettois,"Habitant d’Archettes, commune des Vosges.",animate,inhabitants,INVALID,none
+ws_1_hâtiveté__nom__1,hâtiveté,Croissance hâtive.,stative_situation,dynamic_situation,dynamic_situation,valid
+ws_1_gargarisme__nom__1,gargarisme,"Liquide avec lequel on se gargarise la gorge, souvent un médicament.",inanimate,inanimate*information,inanimate*information,valid
+ws_1_double_pied_de_nez__nom__1,double_pied_de_nez,Geste de moquerie consistant à faire un pied de nez avec ses deux mains.,dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_demi-tasse__nom__1,demi-tasse,Tasse plus petite qu’une tasse ordinaire.,inanimate,inanimate,inanimate,valid
+ws_1_fibre_noire__nom__1,fibre_noire,"Dans un câble à fibres optiques installé, fibre dépourvue d’organes d’émission et de réception des signaux optiques.",inanimate,inanimate,inanimate,valid
+ws_1_Saint-Remigienne__nom__1,Saint-Remigienne,Habitante de Saint-Remy-Geest en Belgique.,animate,inhabitant,INVALID,none
+ws_1_Sabranois__nom__1,Sabranois,"Habitant de Sabran, commune française située dans le département du Gard.",animate,institution,institution,valid
+ws_1_CNE__nom__2,CNE,"Caucasien du Nord-Est, comprenant notamment les tchétchènes.",information,institution,institution,valid
+ws_1_Teilleulaise__nom__1,Teilleulaise,"Habitante du Teilleul, commune française située dans le département de la Manche.",animate,institution,institution,valid
+ws_1_néritier__nom__1,néritier,Mollusque qui vit dans les nérites.,animate,inanimate,inanimate,valid
+ws_1_bubale_de_Coke__nom__1,bubale_de_Coke,Synonyme de bubale roux (antilope).,animate,inanimate,inanimate,valid
+ws_2_coupe_claire__nom__1,coupe_claire,"Réduction importante dans les dépenses d’un budget, la taille d’un texte, etc.",dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_2_quatre-vingtième__nom__1,quatre-vingtième,Chaque partie d’un tout qui est ou que l’on suppose divisé en quatre-vingts parties égales.,quantity,inanimate,inanimate,valid
+ws_1_agrofourniture__nom__1,agrofourniture,"Ensemble des produits consommables de l’agriculture (semences, fertilisants tels que les engrais et les amendements), des produits phytosanitaires et vétérinaires, des aliments du bétail et des agroéquipements tels que les matériels et les bâtiments agricoles.",dynamic_situation,inanimate*information,inanimate*information,valid
+ws_1_Beaupéenne__nom__1,Beaupéenne,"Habitante de Beaupuy, commune française située dans le département de la Haute-Garonne.",animate,institution,institution,valid
+ws_1_Calumet-Pontois__nom__1,Calumet-Pontois,"Habitant de Pointe-Calumet, municipalité québécoise [1].",animate,institution,institution,valid
+ws_2_cheval_de_bataille__nom__1,cheval_de_bataille,"Combat, thème favori pour défendre une cause.",information,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_élaboration_cartographique__nom__1,élaboration_cartographique,"Ensemble des phases de conception, éventuellement de compilation et de préparation cartographiques.",dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_daudine__nom__1,daudine,"Sorte de sauce à base de jus de volaille rôtie et de vin, de verjus, de vinaigre ou de lait.",inanimate,inanimate*information,inanimate*information,valid
+ws_2_aisselier__nom__1,aisselier,Fendeur ou scieur de bois qui fabriquait des ais ou des bardeaux. On disait aussi bardelier.,animate,inanimate,inanimate,valid
+ws_2_spetsnaz__nom__1,spetsnaz,"Par ellipse, soldat d’une de ces forces spéciales.",animate,inanimate,inanimate,valid
+ws_2_abélisme__nom__1,abélisme,Discrimination et préjugés sociaux à l’encontre de personnes handicapées et/ou de personnes perçues comme handicapées.,other,stative_situation,stative_situation,valid
+ws_1_sveltesse__nom__1,sveltesse,Caractère de ce qui est svelte.,stative_situation,inanimate,inanimate,valid
+ws_1_carte_blanche__nom__1,carte_blanche,"Pouvoir illimité d’agir à sa guise, plein pouvoir.",stative_situation,inanimate,inanimate,valid
+ws_1_monoterpénoïde__nom__1,monoterpénoïde,"Nom désignant un monoterpène modifié par un substituant oxygéné (e.g. aldéhyde, cétone ou alcool); les monoterpénoïdes sont des constituants ubiquitaires des huiles essentielles; le menthol, l’eucalyptol et le citral en sont deux exemples représentatifs. → voir monoterpène",inanimate,inanimate,inanimate,valid
+ws_1_Chaliferois__nom__1,Chaliferois,"Habitant de Chalifert, commune française située dans le département de la Seine-et-Marne.",animate,institution,institution,valid
+ws_1_montmélian__nom__1,montmélian,Cépage rouge de l’Ain dont le nom officiel est corbeau.,inanimate,inanimate,inanimate,valid
+ws_6_barrière__nom__1,barrière,Ce qui sert de borne et de défense naturelle à un État.,inanimate,institution,institution,valid
+ws_1_Sainghinois__nom__1,Sainghinois,"Habitant de Sainghin-en-Mélantois ou de Sainghin-en-Weppes, communes françaises situées dans le département du Nord.",animate,inhabitants,INVALID,none
+ws_1_halle_d’assemblage__nom__1,halle_d’assemblage,"Bâtiment destiné à la préparation, à l’assemblage et à certaines vérifications des différents étages d’un lanceur, ou d’une fusée-sonde, avant leur transport sur l’aire de lancement.",inanimate,dynamic_situation,dynamic_situation,valid
+ws_1_combattante__nom__1,combattante,Soldate marchant en campagne.,animate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_espérantophobe__nom__1,espérantophobe,Personne qui manifeste de l’aversion pour l’espéranto ou a une attitude hostile à l’encontre des espérantistes ou des espérantophones.,animate,inanimate*information,inanimate*information,valid
+ws_1_zettafarad__nom__1,zettafarad,"Unité de mesure de capacité électrique du Système international (SI), valant 1021 farads, et dont le symbole est ZF.",quantity,institute,INVALID,none
+ws_1_duck_typing__nom__1,duck_typing,"Style de typage dynamique de certains langages de programmation orientée objet, en fonction des méthodes et attributs de l’objet.",dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_demi-salut__nom__1,demi-salut,"Salut de la tête ou de la main discret, à peine esquissé.",dynamic_situation,stative_situation,stative_situation,valid
+ws_1_exhérédation__nom__1,exhérédation,"Disposition testamentaire, légale ou coutumière par laquelle quelqu’un se retrouve déshérité.",other,institution,institution,valid
+ws_1_Termondoise__nom__1,Termondoise,Habitante de Termonde en Belgique.,animate,inhabitant,INVALID,none
+ws_1_question_préjudicielle__nom__1,question_préjudicielle,Question qui doit être jugée avant la contestation principale.,dynamic_situation*information,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_Théobaldienne__nom__1,Théobaldienne,"Habitante de Saint-Thibault, commune française située dans le département de l’Aube.",animate,institution,institution,valid
+ws_1_siraya__nom__1,siraya,Langue formosane parlée autrefois au Taïwan.,information,inanimate*information,inanimate*information,valid
+ws_1_Saint-Urcizain__nom__1,Saint-Urcizain,"Habitant de Saint-Urcize, commune française située dans le département du Cantal.",animate,inhabitant,INVALID,none
+ws_1_Linazéenne__nom__1,Linazéenne,"Habitante de Linazay, commune française située dans le département de la Vienne.",animate,institution,institution,valid
+ws_1_kinesthésie__nom__1,kinesthésie,Sensations des mouvements de son corps.,stative_situation,dynamic_situation,dynamic_situation,valid
+ws_3_cabotine__nom__1,cabotine,Celle qui affecte dans la vie privée des attitudes de théâtre.,animate,dynamic_situation,dynamic_situation,valid
+ws_1_delphinoïde__nom__1,delphinoïde,"Superfamille de cétacés regroupant les monodontidés (narwhal, beluga), marsouins et dauphins océaniques.",animate,inanimate,inanimate,valid
+ws_1_impartibilité__nom__1,impartibilité,"État de deux fiefs réunis qui ne peuvent passer que sur une seule tête, quoiqu’ils puissent relever de deux seigneurs différents.",stative_situation,inanimate*information,inanimate*information,valid
+ws_2_triquètre__nom__1,triquètre,"Meuble représentant dans les armoiries un ensemble de trois jambes attachées par le haut des cuisses. Ces jambes peuvent être couvertes de jambières ou nues. Les jambes sont disposées en pairle de façon à ce que chaque pied se trouve dans un des angles dextre chef, senestre chef et pointe. Souvent confondu avec le triquètre sicilien qui présente en plus un tête humaine ou mythologique (Gorgone par exemple) en cœur. À rapprocher de triquètre sicilienne et triskèle ou triskel.",information,inanimate,inanimate,valid
+ws_1_tres__nom__1,tres,Instrument à cordes pincées d’origine cubaine.,inanimate,instrument,INVALID,none
+ws_1_installeuse__nom__1,installeuse,"Celle qui cherche à en imposer, crâneur.",animate,inanimate*information,inanimate*information,valid
+ws_1_timonière__nom__1,timonière,Matelote spécialisée qui se trouve à la barre ou à tout autre appareil agissant sur le gouvernail.,animate,dynamic_situation,dynamic_situation,valid
+ws_1_croisement_consanguin__nom__1,croisement_consanguin,Synonyme de consanguinité.,stative_situation,inmateinance*information,INVALID,none
+ws_4_loulou__nom__2,loulou,Loubard ou voyou qui agit souvent en bande.,animate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_Orellin__nom__1,Orellin,"Habitant d’Orelle, commune française située dans le département de la Savoie.",animate,institution,institution,valid
+ws_1_zolmitriptan__nom__1,zolmitriptan,Médicament utilisé dans le traitement des migraines.,inanimate,inanimate*information,inanimate*information,valid
+ws_1_fiche_de_pêche__nom__1,fiche_de_pêche,Registre où sont enregistrées les pêches d’un bateau afin de contrôler les quotas de pêche.,inanimate*information,inanimate*information,inanimate*information,valid
+ws_1_incompétence_négative__nom__1,incompétence_négative,"Méconnaissance, par une institution, de ses droits, qu’elle considère moins étendus qu’ils ne le sont.",stative_situation,institution,institution,valid
+ws_3_diverticule__nom__1,diverticule,"Dans un réseau souterrain, couloir séparant deux salles.",inanimate,inanimate,inanimate,valid
+ws_1_anti-corrosion__nom__1,anti-corrosion,Action d’éviter l’altération d’un matériau par un traitement adapté.,dynamic_situation,inanimate*information,inanimate*information,valid
+ws_1_Provenchèrois__nom__1,Provenchèrois,"Habitant de Provenchère, commune française située dans le département du Doubs.",animate,inhabitant,INVALID,none
+ws_1_La_Grande-Paroisse__nom__1,La_Grande-Paroisse,"Commune française, située dans le département de la Seine-et-Marne.",institution,institution,institution,valid
+ws_1_pelade__nom__1,pelade,"Pathologie qui fait tomber, par endroits, les poils et les cheveux.",dynamic_situation,inanimate*information,inanimate*information,valid
+ws_1_agalma__nom__1,agalma,Objet du désir qui n’a pas forcément une belle image mais qui est très séduisant dans son idée.,information,inanimate,inanimate,valid
+ws_1_Valserhônois__nom__1,Valserhônois,"Habitant de Valserhône, commune française située dans le département de l’Ain.",animate,inhabitant,INVALID,none
+ws_1_mə̀dʉ̂mbɑ̀__nom__1,mə̀dʉ̂mbɑ̀,variante orthographique de medumba.,information,information,information,valid
+ws_1_clostridium__nom__1,clostridium,Genre de bactérie pathogène responsable de plusieurs maladies chez l’homme dont le botulisme ou le tétanos.,inanimate,inanimate,inanimate,valid
+ws_1_chloanthite__nom__1,chloanthite,"Minéral, synonyme de nickelskutterudite.",inanimate,inanimate,inanimate,valid
+ws_1_blues_rural__nom__1,blues_rural,Toutes les formes acoustiques du blues.,information,information,information,valid
+ws_1_pedottes__nom__1,pedottes,"Lien que l’on place autour des chevilles d’un captif, pour lui limiter la liberté de mouvement des jambes.",inanimate,dynamic_situation,dynamic_situation,valid
+ws_1_DNTBP__nom__1,DNTBP,"Substance phytosanitaire, de formule chimique C10H12N2O5, à usage d’herbicide de nombreuses dicotylédones et sélectif des cultures de céréales et accessoirement des légumineuses fourragères.",inanimate,inanimate,inanimate,valid
+ws_1_innavigabilité__nom__1,innavigabilité,"Incapacité, pour un navire, de pouvoir naviguer.",stative_situation,dynamic_situation,dynamic_situation,valid
+ws_2_Belfortois__nom__1,Belfortois,"Habitant de Belfort-sur-Rebenty, commune française située dans le département de l’Aude.",animate,inhabitant,INVALID,none
+ws_1_Daechien__nom__1,Daechien,Partisan de Daech,animate,institution,institution,valid
+ws_1_Cardésienne__nom__1,Cardésienne,"Habitante de Cardet, commune française située dans le département du Gard.",animate,institution,institution,valid
+ws_2_cow-boy__nom__1,cow-boy,"Homme courageux, cavalier émérite et tireur d’élite prêt à dégainer face aux Indiens pour défendre la veuve et l’orphelin.",animate,dynamic_situation,dynamic_situation,valid
+ws_1_deuxième_art__nom__1,deuxième_art,La sculpture.,information,inanimate,inanimate,valid
+ws_3_Etchemin__nom__1,Etchemin,"Habitant de Saint-Romuald (anciennement Saint-Romuald-d’Etchemin), ancienne ville québécoise, désormais secteur de la ville de Lévis [1].",animate,institution,institution,valid
+ws_1_protubérance_occipitale_interne__nom__1,protubérance_occipitale_interne,Relief osseux situé sur la face interne de l’écaille de l’os occipital.,inanimate,inanimate,inanimate,valid
+ws_2_écope__nom__1,écope,Pelle creuse pour vidanger.,inanimate,inanimate,inanimate,valid
+ws_1_Lespinassiéroise__nom__1,Lespinassiéroise,"Habitante de Lespinassière, commune française située dans le département de l’Aude.",animate,institution,institution,valid
+ws_1_salicaire_à_épis__nom__1,salicaire_à_épis,Synonyme de salicaire commune (espèce de plantes).,inanimate,inanimate,inanimate,valid
+ws_1_silenciaire__nom__1,silenciaire,Officier qui faisait observer le silence aux esclaves.,animate,institution,institution,valid
+ws_1_catallaxie__nom__1,catallaxie,Mode abstrait de gestion d’informations produisant un ordre spontané optimal.,information,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_nalǘn__nom__1,nalǘn,Année.,time,inanimate,inanimate,valid
+ws_1_bandière__nom__2,bandière,Féminin singulier de bandier.,animate,inanimate*information,inanimate*information,valid
+ws_1_fosse_aux_ours__nom__1,fosse_aux_ours,Enclos creusé en profondeur pour maintenir des ours en captivité.,inanimate,inanimate*information,inanimate*information,valid
+ws_4_ardoisière__nom__1,ardoisière,"Ouvrière qui travaille l’ardoise (pour un homme, on dit : ardoisier).",animate,inanimate*information,inanimate*information,valid
+ws_1.b_réveil__nom__1,réveil,Laps de temps pendant lequel l’esprit effectue la transition.,stative_situation,stative_situation,stative_situation,valid
+ws_1.a_fonçage__nom__1,fonçage,"Opération qui consiste à enduire le papier peint d’une couche de couleur, qui forme le fond sur lequel sont ensuite imprimés les motifs.",dynamic_situation,inanimate*information,inanimate*information,valid
+ws_1_poutine_acadienne__nom__1,poutine_acadienne,"Plat composé de pâte de pommes de terre farcies avec de la viande, souvent du lard ou du porc.",inanimate,inanimate,inanimate,valid
+ws_1_Dolmissois__nom__1,Dolmissois,"Habitant de Dolbeau-Mistassini, ville québécoise [1].",animate,institution,institution,valid
+ws_1_carnix__nom__1,carnix,"Trompe de guerre celtique, se jouant verticalement et dont le pavillon est en forme de hure (de sanglier la plupart du temps).",inanimate,inanimate*information,inanimate*information,valid
+ws_3_espoir__nom__1,espoir,Personne en laquelle on espère.,animate,inanimate,inanimate,valid
+ws_1_deux-ponts__nom__1,deux-ponts,Vaisseau à deux ponts ou à deux batteries couvertes.,inanimate,inanimate,inanimate,valid
+ws_2_étoile_de_mer__nom__1,étoile_de_mer,"Position du Kâmasûtra qui commence avec la femme allongée sur le dos une jambe pliée et une jambe tendue, et l’homme, assis sur la jambe tendue.",stative_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_11_cellule__nom__1,cellule,Élément fondamental d’un motif musical.,information,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_numéricien__nom__1,numéricien,"Spécialiste de l’étude des nombres, de l’analyse numérique.",animate,inanimate*information,inanimate*information,valid
+ws_1_Franc__nom__2,Franc,"Habitant de Francs, commune française située dans le département de la Gironde.",animate,institution,institution,valid
+ws_4_manège__nom__1,manège,"Attraction de fête foraine qui consiste en une plate-forme en rotation sur elle-même, sur laquelle sont disposées des miniatures d’animaux, de voitures, d’avions, etc., dans lesquelles s’assoient des enfants.",inanimate,dynamic_situation,dynamic_situation,valid
+ws_1_aurillerie__nom__1,aurillerie,"Impôt de l’Ancien Régime, sur l’élevage des abeilles",possession,inanimate*information,inanimate*information,valid
+ws_1_tamanoir__nom__1,tamanoir,"Espèce de fourmilier de grande taille, originaire d’Amérique du sud.",animate,inanimate,inanimate,valid
+ws_1_Colataine__nom__1,Colataine,"Habitante de Saint-Nicolas-la-Chapelle, commune française située dans le département de la Savoie.",animate,institution,institution,valid
+ws_1_vagabondage__nom__1,vagabondage,État social du vagabond.,stative_situation,dynamic_situation,dynamic_situation,valid
+ws_2_vagabondage__nom__1,vagabondage,"Fait de vagabonder, promenade au hasard.",dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_3_vagabondage__nom__1,vagabondage,Délit de toute personne qui n’a ni domicile certain ni moyens de subsistance et qui n’exerce habituellement ni métier ni profession.,dynamic_situation,stative_situation,stative_situation,valid
+ws_1_raffinage__nom__1,raffinage,Action de raffiner.,dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_phoque__nom__1,phoque,"Mammifère carnivore marin au corps fusiforme, aux membres antérieurs, très courts, transformés en palettes natatoires et aux membres postérieurs qui ne peuvent se replier sous le ventre, et dont il existe plusieurs espèces, entre autres le phoque commun.",animate,inanimate,inanimate,valid
+ws_1_fennec__nom__1,fennec,Petit renard (Vulpes zerda) caractérisé par ses très grandes oreilles et qui vit essentiellement dans les zones désertiques de l’Afrique du Nord.,animate,animate,animate,valid
+ws_1_modernité__nom__1,modernité,Le fait d’être moderne.,stative_situation,stative_situation,stative_situation,valid
+ws_2_modernité__nom__1,modernité,"Ce qui est désigné comme moderne, nouveau, innovant, progressiste.",stative_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_luxation__nom__1,luxation,"Déboîtement des os, sortie de la tête d’un os de la cavité où elle doit être.",dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_2_luxation__nom__1,luxation,Déplacement.,dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_fluctuation__nom__1,fluctuation,"Variation, défaut de fixité, de permanence.",dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_2_fluctuation__nom__1,fluctuation,Mouvement ondulatoire que l’on communique à un liquide contenu dans une cavité en percutant la paroi avec une main tandis que l’autre perçoit ce mouvement.,dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_ossification__nom__1,ossification,Formation des os.,dynamic_situation,inanimate*information,inanimate*information,valid
+ws_2_ossification__nom__1,ossification,Changement insensible des parties membraneuses et cartilagineuses en tissu osseux.,dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_mécontentement__nom__1,mécontentement,"Sentiment, état d’indignation de quelqu’un, d’un groupe de personnes, qui est mécontent.",stative_situation,stative_situation,stative_situation,valid
+ws_1_flaque__nom__1,flaque,Petite étendue d’un liquide accumulé sur une surface plane ou qui n’est pas parfaitement nivelée.,inanimate,inanimate,inanimate,valid
+ws_2_flaque__nom__1,flaque,Zone dont l’aspect est différent de celui des alentours.,inanimate,dynamic_situation,dynamic_situation,valid
+ws_1_tonne__nom__1,tonne,"Unité de mesure de masse en dehors du Système international (mais dont l’usage est accepté avec le SI), valant 103 kilogrammes, et dont le symbole est t. Aussi appelée tonne métrique.",quantity,information,information,valid
+ws_2_tonne__nom__1,tonne,"Unité de mesure de masse anglo-saxonne, valant soit 2 240 livres (tonne longue) au Royaume-Uni, soit 2 000 livres (tonne courte) aux États-Unis.",quantity,information,information,valid
+ws_3_tonne__nom__1,tonne,Lourdeur exagérée.,stative_situation,inanimate,inanimate,valid
+ws_4_tonne__nom__1,tonne,"Individu de forte corpulence et lourdaud, bête, inapte sur le plan moral.",animate,inanimate,inanimate,valid
+ws_5_tonne__nom__1,tonne,"Récipient de bois à deux fonds, en forme de muid, qui est plus grand et plus renflé par le milieu que le tonneau.",inanimate,inanimate,inanimate,valid
+ws_6_tonne__nom__1,tonne,"Réservoir cylindrique, souvent métallique, monté sur un châssis de remorque, et servant à transporter de l’eau, du purin, du lisier.",inanimate,inanimate,inanimate,valid
+ws_7_tonne__nom__1,tonne,"Grosse bouée cylindrique, en bois ou en métal, servant à la signalisation ou à l’amarrage.",inanimate,inanimate,inanimate,valid
+ws_8_tonne__nom__1,tonne,Déplacement d’eau ou poids de marchandises transportées égal à mille kilogrammes environ.,quantity,inanimate,inanimate,valid
+ws_9_tonne__nom__1,tonne,"Unité de mesure de force, plus correctement appelée tonne-force, correspondant à la force que la gravité terrestre exerce sur une tonne de masse.",quantity,information,information,valid
+ws_10_tonne__nom__1,tonne,"Coquille univalve de forme arrondie, synonyme de dolium (genre de mollusque).",animate,invertebrate,INVALID,none
+ws_11_tonne__nom__1,tonne,Pièce d’armure formée de lames forgées et articulées protégeant les hanches et le haut des cuisses du guerrier de la fin du Moyen Âge.,inanimate,inanimate,inanimate,valid
+ws_12_tonne__nom__1,tonne,"Installation fixe au bord d’un plan d’eau ou « mare de tonne », dans laquelle le chasseur, nommé tonnayre, passe la nuit. La chasse à la tonne est une pratique traditionnelle de certains départements côtiers.",inanimate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_amyotrophie__nom__1,amyotrophie,Atrophie des muscles.,stative_situation,inanimate,inanimate,valid
+ws_7_unité__nom__1,unité,"Groupe constitué de soldats, gendarmes ou policiers commandés par un chef.",other,inanimate,inanimate,valid
+ws_2_montant__nom__1,montant,"Total d’un compte, d’une recette, d’une dépense, etc.",possession,inanimate*information,inanimate*information,valid
+ws_1_Monticelloise__nom__1,Monticelloise,"Habitante de Montceaux-lès-Meaux, commune française située dans le département de la Seine-et-Marne.",animate,institution,institution,valid
+ws_1_maxwell__nom__1,maxwell,"Unité de mesure CGS électromagnétique, de symbole Mx.",quantity,quantity,quantity,valid
+ws_7_baraque__nom__1,baraque,Jeu de billard avec un petit casier en forme de plan incliné où l’on doit loger les billes.,inanimate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_pivois__nom__1,pivois,Vin.,inanimate,inanimate,inanimate,valid
+ws_1_lampe_à_huile__nom__1,lampe_à_huile,Lampe alimentée par de l’huile.,inanimate,inanimate,inanimate,valid
+ws_1_jéroboam__nom__1,jéroboam,Grosse bouteille d’une contenance de quatre bouteilles de 75 cl (soit 3 litres).,inanimate,inanimate,inanimate,valid
+ws_1_Charronnais__nom__1,Charronnais,"Habitant de Charron, commune française située dans le département de la Charente-Maritime.",animate,institution,institution,valid
+ws_2_Lasnois__nom__1,Lasnois,Habitant de Lasne-Chapelle-Saint-Lambert en Belgique.,animate,institution,institution,valid
+ws_3_Montreuillois__nom__1,Montreuillois,"Habitant de Montreuil, commune française située dans le département de Seine-Saint-Denis.",animate,inhabitant,INVALID,none
+ws_2_Ambriéroise__nom__1,Ambriéroise,"Habitante d’Ambrières, commune française située dans le département de la Marne.",animate,institution,institution,valid
+ws_1_phrase-choc__nom__1,phrase-choc,"Réplique percutante, mémorable.",information,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_Marrakchi__nom__1,Marrakchi,Habitant de Marrakech.,animate,inhabitants,INVALID,none
+ws_1_babotte__nom__1,babotte,Nom donné à la larve qui dévore la luzerne chez l’une ou l’autre de deux espèces d’insectes (le phytonome de la luzerne (Hypera postica) et le négril (Colaspidema barbarum).,animate,insect*information,INVALID,none
+ws_1_chérubin__nom__2,chérubin,Jeune et bel enfant.,animate,stative_situation,stative_situation,valid
+ws_1_réciprocation__nom__1,réciprocation,"Action de réciproquer, par laquelle on reçoit la pareille.",dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_2_Chémeroise__nom__1,Chémeroise,"Habitante de Chémery-les-Deux, commune française située dans le département de la Moselle.",animate,institution,institution,valid
+ws_1_khadafiste__nom__1,khadafiste,Substantif de l’adjectif : partisan de Mouammar Kadhafi.,animate,institution,institution,valid
+ws_3_déité__nom__1,déité,Dieu ou déesse de la fable.,animate,inanimate,inanimate,valid
+ws_1_épuisement_spécifique__nom__1,épuisement_spécifique,Combustion massique,dynamic_situation,inanimate,inanimate,valid
+ws_1_E.__nom__1,E.,Est.,quantity,institution,institution,valid
+ws_1_Grecque__nom__1,Grecque,Habitante de la Grèce antique ou moderne (ou femme qui en est originaire).,animate,inhabitant,INVALID,none
+ws_3_radicalisation__nom__1,radicalisation,Processus par lequel un individu ou un groupe justifie au non d’une idéologie (religieuse ou autre) le recours à la violence comme mode d’action et le rejet de l’autre. Note : Généralement utilisé en ce sens depuis les années 2010 en référence à certaines manifestations du djihad islamique.,dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_septante-et-un__nom__1,septante-et-un,ou (Archaïsme) Le nombre 71.,quantity,information,information,valid
+ws_3_huître__nom__1,huître,"Crachat de mucus, de couleur verdâtre si le cracheur est atteint d’une inflammation des bronches.",inanimate,inanimate,inanimate,valid
+ws_8_nom__nom__1,nom,"Qualité, titre.",stative_situation,institution,institution,valid
+ws_1_déradage__nom__1,déradage,"Fait pour un navire de dérader, quitter son lieu de mouillage, de manière accidentelle (rupture des amarres) ou volontaire, par suite d’une tempête ou de fortes intempéries.",dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_fourchette_du_diable__nom__1,fourchette_du_diable,"Synonyme de géranium herbe à robert, Geranium robertianum L. [1].",inanimate,inanimate*information,inanimate*information,valid
+ws_1_petit_cousin__nom__1,petit_cousin,Fils du cousin ou de la cousine.,animate,inmate*information,INVALID,none
+ws_2_Spechbachois__nom__1,Spechbachois,"Habitant de Spechbach-le-Haut, commune française située dans le département du Haut-Rhin.",animate,inhabitant,INVALID,none
+ws_1_Gorzienne__nom__1,Gorzienne,"Habitante de Gorze, commune française située dans le département de la Moselle.",animate,institution,institution,valid
+ws_1_chartil__nom__1,chartil,Corps de charrette.,inanimate,inanimate,inanimate,valid
+ws_1_dynamisation__nom__1,dynamisation,"Action de dynamiser, de rendre dynamique.",other,dynamic_situation,dynamic_situation,valid
+ws_1_hydrophobie__nom__1,hydrophobie,Peur morbide de l’eau et des autres liquides.,stative_situation,dynamic_situation,dynamic_situation,valid
+ws_1_cloquage__nom__1,cloquage,Apparition de cloques sur une surface.,dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_3_Laroquois__nom__1,Laroquois,"Habitant de Laroque-des-Arcs, commune française située dans le département du Lot.",animate,institution,institution,valid
+ws_1_auto-induction__nom__1,auto-induction,Phénomène d’induction où la source du champ magnétique à l’origine d’une force électromotrice dans un circuit est le courant électrique parcourant ce même circuit.,dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_adipocyte__nom__1,adipocyte,"Cellule présente dans les tissus adipeux, spécialisée dans le stockage de la graisse.",inanimate,inanimate,inanimate,valid
+ws_2_alpine__nom__1,alpine,"Synonyme de préalpes du Sud, race de mouton.",animate,inanimate,inanimate,valid
+ws_2_luisette__nom__1,luisette,Synonyme de haricot de mer (espèce d’animaux).,animate,inanimate,inanimate,valid
+ws_1_arment__nom__1,arment,Berger d’Égypte.,animate,inanimate,inanimate,valid
+ws_1_fressure__nom__1,fressure,"Ensemble de plusieurs parties intérieures de quelques animaux comme le foie, le cœur, la rate et le poumon.",inanimate,inanimate,inanimate,valid
+ws_1_vif_de_la_colonne__nom__1,vif_de_la_colonne,Tronc ou fût de la colonne.,inanimate,inanimate,inanimate,valid
+ws_1_renaissantisme__nom__1,renaissantisme,Mouvement linguistique qui vise à rendre à une langue son prestige perdu.,information,inanimate*information,inanimate*information,valid
+ws_1_bayanisme__nom__1,bayanisme,Variante de baïanisme.,information,inanimate*information,inanimate*information,valid
+ws_2_rareté__nom__1,rareté,Chose qui se trouve difficilement.,stative_situation,inanimate*information,inanimate*information,valid
+ws_1_sourde__nom__2,sourde,Consonne sourde.,information,inanimate,inanimate,valid
+ws_2_imbécillité__nom__1,imbécillité,"Actes ou paroles d’un sot, d’un niais.",other,stative_situation,stative_situation,valid
+ws_1_Bezinghemoise__nom__1,Bezinghemoise,"Habitante de Bezinghem, commune française située dans le département du Pas-de-Calais.",animate,institution,institution,valid
+ws_1_victoriat__nom__1,victoriat,"Pièce de monnaie d’argent valant cinq as, à l’effigie de la Victoire.",other,inanimate*information,inanimate*information,valid
+ws_1_ta_marbouta__nom__1,ta_marbouta,"ةVariante de tāʾ marbūṭa, lettre arabe ة.",information,inanimate,inanimate,valid
+ws_2_nid_d’abeille__nom__1,nid_d’abeille,Disposition d’éléments formant une structure qui rappelle le nid d’une colonie d’abeilles.,stative_situation,inanimate,inanimate,valid
+ws_2_Parodien__nom__1,Parodien,"Habitant de Paray-sous-Briailles, commune française située dans le département de l’Allier.",animate,institution,institution,valid
+ws_1_Meurcéen__nom__1,Meurcéen,"Habitant de Meurcé, commune française située dans le département de la Sarthe.",animate,institution,institution,valid
+ws_1_harpé__nom__1,harpé,Poisson du genre thoracique.,animate,inanimate,inanimate,valid
+ws_1_lordose_lombaire__nom__1,lordose_lombaire,Courbure de la colonne vertébrale à convexité antérieure formée par les vertèbres lombaires.,stative_situation,dynamic_situation,dynamic_situation,valid
+ws_2_démarquage__nom__1,démarquage,"Modifications malhabiles et subreptices, grâce auxquelles un amateur cherche à s’approprier dans son écrit, le résultat d’un travail original réputé.",dynamic_situation,inanimate*information,inanimate*information,valid
+ws_1_Amaryllidacées__nom__1,Amaryllidacées,Famille de plantes monocotylédones de l’ordre des Liliales comprenant près de 2 800 espèces réparties en plus de 70 genres.,inanimate,institute,INVALID,none
+ws_1_enverdeur__nom__1,enverdeur,Intégriste de l’écologie qui critique en permanence les pratiques pas assez « vertes » de ses proches.,animate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_Hattenois__nom__1,Hattenois,"Habitant de Hatten, commune française située dans le département du Bas-Rhin.",animate,institution,institution,valid
+ws_2_Saint-Martinois__nom__1,Saint-Martinois,"Habitant de La Motte-Saint-Martin, commune de l’Isère.",animate,inhabitant,INVALID,none
+ws_1_sphinx_nicéa__nom__1,sphinx_nicéa,"Une espèce d’insecte lépidoptère (papillon) de nuit, présent autour de la Méditerranée, de la famille des sphingidés (Sphingidae), de couleurs brun et rose.",animate,insect,INVALID,none
+ws_1_notaphile__nom__1,notaphile,Collectionneur de factures.,animate,in possession,possession,valid
+ws_2_perspectographe__nom__1,perspectographe,Appareil mécanique permettant de tracer une vue perspective.,inanimate,inanimate,inanimate,valid
+ws_1_psilocybe_en_fer_de_lance__nom__1,psilocybe_en_fer_de_lance,Synonyme de psilocybe lancéolé (espèce de champignons).,inanimate,inanimate,inanimate,valid
+ws_1_multitouch__nom__1,multitouch,Technologie de contact permettant d’utiliser un périphérique d’entrée équipé d’une surface avec plusieurs doigts.,information,inanimate*information,inanimate*information,valid
+ws_1_précoce__nom__1,précoce,Enfant pour lequel on peut parler de précocité intellectuelle.,animate,stative_situation,stative_situation,valid
+ws_1_glossarisation__nom__1,glossarisation,Agencement ou arrangement en glossaire.,dynamic_situation,information,information,valid
+ws_1_utrecht__nom__1,utrecht,Sorte de tissu d’ameublement.,inanimate,inanimate,inanimate,valid
+ws_1_glacophile__nom__1,glacophile,Collectionneur de pots de yaourt.,animate,in possession,possession,valid
+ws_2_gallicanisme__nom__1,gallicanisme,Attachement à cette doctrine.,stative_situation,stative_situation,stative_situation,valid
+ws_1_drouiller__nom__1,drouiller,Autre nom de l’alisier blanc.,inanimate,inanimate*information,inanimate*information,valid
+ws_1_caouène__nom__1,caouène,Grand sillon que forme l’océan dans les fonds sablonneux sur le littoral de Gascogne.,inanimate,dynamic_situation,dynamic_situation,valid
+ws_1_immortelle_commune__nom__1,immortelle_commune,"Espèce d’immortelle, petite plante aux feuilles linéaires et duveteuses, aux capitules à fleurons jaunes et à odeur épicée.",inanimate,inanimate,inanimate,valid
+ws_1_fer_spathique__nom__1,fer_spathique,Minéral synonyme désuet de sidérite,inanimate,inanimate,inanimate,valid
+ws_3_abatteur__nom__1,abatteur,Celui qui abat du travail.,animate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_baguage__nom__1,baguage,Action de baguer des oiseaux.,dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_riniste__nom__1,riniste,Personne favorable au Rassemblement pour l’indépendance nationale (RIN).,animate,institution,institution,valid
+ws_1_Rouillacais__nom__1,Rouillacais,"Habitant de Rouillac, commune française située dans le département de la Charente.",animate,institution,institution,valid
+ws_1_coulage__nom__1,coulage,Action de faire couler.,dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_5_battage__nom__1,battage,"Mensonge, tromperie, bluff.",dynamic_situation*information,stative_situation,stative_situation,valid
+ws_1_endocarde__nom__1,endocarde,Membrane qui tapisse les cavités du cœur.,inanimate,inanimate,inanimate,valid
+ws_1_cinglé__nom__1,cinglé,Fou furieux.,animate,animate,animate,valid
+ws_1_regimbement__nom__1,regimbement,Action d’un animal qui regimbe.,dynamic_situation,animate,animate,valid
+ws_1_lapphund_suédois__nom__1,lapphund_suédois,"Race de chien de type spitz, originaire de Suède où il gardait les rennes, de taille moyenne, à poil long, noir, brun ou blanc.",animate,inanimate,inanimate,valid
+ws_3_Ercéenne__nom__1,Ercéenne,"Habitante d’Ercé-près-Liffré, commune française située dans le département de l’Ille-et-Vilaine.",animate,institution,institution,valid
+ws_1_Benatier__nom__1,Benatier,"Habitant de Bief-des-Maisons, commune française située dans le département du Jura.",animate,institution,institution,valid
+ws_1_Cortisonuflien__nom__1,Cortisonuflien,"Habitant de Courtenot, commune française située dans le département de l’Aube.",animate,institution,institution,valid
+ws_1_hapkido__nom__1,hapkido,Art martial coréen.,dynamic_situation,inanimate*information,inanimate*information,valid
+ws_1_triangulation__nom__1,triangulation,Action de faire les opérations trigonométriques nécessaires pour lever le plan d’un terrain ou résultat de cette action.,dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_Castelsagratoise__nom__1,Castelsagratoise,"Habitante de Castelsagrat, commune française située dans le département du Tarn-et-Garonne.",animate,inhabitant,INVALID,none
+ws_1_ISN__nom__1,ISN,Type de numéro échangé dans la séquence initiale d’un message TCP.,information,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_pingouinière__nom__1,pingouinière,Lieu où se rassemblent les pingouins.,inanimate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_Lespignanaise__nom__1,Lespignanaise,"Habitante de Lespignan, commune française située dans le département de l’Hérault.",animate,institution,institution,valid
+ws_1_Cantleyen__nom__1,Cantleyen,"Habitant de Cantley, municipalité québécoise [1].",animate,institution,institution,valid
+ws_1_toutime__nom__1,toutime,Variante orthographique de toutim.,quantity,information,information,valid
+ws_1_chanceux__nom__1,chanceux,Personne favorisée par la chance.,animate,inanimate,inanimate,valid
+ws_1_préscutum__nom__1,préscutum,Pièce la plus antérieure de l’écusson des insectes.,inanimate,inanimate,inanimate,valid
+ws_1_détracteur__nom__1,détracteur,Celui qui prend plaisir à critiquer voire rabaisser quelqu’un ou quelque chose.,animate,stative_situation,stative_situation,valid
+ws_2_bonification__nom__1,bonification,"Avantage accordé à un concurrent (en points, temps...) dans un concours, une épreuve sportive, etc.",information,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_agent_spécial__nom__1,agent_spécial,"Détective ou un enquêteur pour un État, un comté, une municipalité, un gouvernement municipal ou local.",animate,dynamic_situation*information,dynamic_situation*information,valid
+ws_2_idéophonogramme__nom__1,idéophonogramme,"Sinogramme composé de deux caractères plus simples, l’un pour le radical de la catégorie sémantique et l’autre pour la prononciation.",information,informaton,INVALID,none
+ws_1_Courtinoise__nom__1,Courtinoise,"Habitante de La Courtine, commune française située dans le département de la Creuse.",animate,institution,institution,valid
+ws_3_Saint-Briçois__nom__1,Saint-Briçois,"Habitant de Saint-Brice, commune française située dans le département de la Seine-et-Marne.",animate,institution,institution,valid
+ws_1_momification__nom__1,momification,"Action de momifier, ou état d’un cadavre momifié.",other,inanimate*information,inanimate*information,valid
+ws_1_affileur__nom__1,affileur,"Celui qui affile, donne du fil aux outils tranchants.",animate,inanimate,inanimate,valid
+ws_1_anoploure__nom__1,anoploure,Membre d’un groupe d’insectes comprenant les poux suceurs (les Anoplura).,animate,insect,INVALID,none
+ws_1_boulevard_circulaire__nom__1,boulevard_circulaire,Axe de circulation rapide se présentant sous la forme d’une boucle et desservant différents points d’un centre urbain.,inanimate,dynamic_situation,dynamic_situation,valid
+ws_12_Montois__nom__1,Montois,"Habitant de Mont-sur-Meurthe, commune française située dans le département de la Meurthe-et-Moselle.",animate,institution,institution,valid
+ws_1_arrière__nom__1,arrière,Partie postérieure d’une chose.,quantity,inanimate,inanimate,valid
+ws_1_paléothérium__nom__1,paléothérium,Équidé fossile de l’éocène et de l’oligocène d’Europe ressemblant à un tapir.,animate,inanimate,inanimate,valid
+ws_1_républicaine__nom__1,républicaine,"Personne attachée à la république, au parti républicain.",animate,institution,institution,valid
+ws_1_Seneffois__nom__1,Seneffois,Habitant de Seneffe en Belgique.,animate,inhabitant,INVALID,none
+ws_1_Dhabérante__nom__1,Dhabérante,"Habitante de Habère-Lullin, commune française située dans le département de la Haute-Savoie.",animate,institution,institution,valid
+ws_1_alograme__nom__1,alograme,Procédé artistique qui consiste à réaliser une impression sur une toile en utilisant une photocopie imbibée de térébenthine et d’acétone.,dynamic_situation,inanimate*information,inanimate*information,valid
+ws_1_boule_carrée__nom__1,boule_carrée,"Jeu de boule analogue à la pétanque mais se jouant avec des \""boules\"" généralement en bois et de forme cubique. Il est possible d’y jouer sur des terrains en pente.",dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_2_culard__nom__1,culard,Variante orthographique de culart.,inanimate,inanimate*information,inanimate*information,valid
+ws_1_radioconducteur__nom__1,radioconducteur,"Dispositif de détection des ondes hertziennes inventé par le professeur Édouard Branly le 20 novembre 1890, constitué d’un tube de verre, étroit, contenant un peu de limaille métallique intercalée entre deux tiges conductrices.",inanimate,invention,INVALID,none
+ws_1_sittelle_à_poitrine_blanche__nom__1,sittelle_à_poitrine_blanche,"Oiseau vivant en Amérique du Nord, de nom scientifique Sitta carolinensis sur Wikispecies .",animate,animate,animate,valid
+ws_1_Rebreuvoise__nom__1,Rebreuvoise,"Habitante de Rebreuve-sur-Canche, commune française située dans le département du Pas-de-Calais.",animate,inhabitant,INVALID,none
+ws_2_Montréalais__nom__1,Montréalais,"Habitant de Montréal, commune française située dans le département de l’Ardèche.",animate,institution,institution,valid
+ws_1_genêtière__nom__1,genêtière,Champ de genêts.,inanimate,inanimate,inanimate,valid
+ws_1_hormogonie__nom__1,hormogonie,"Fragment pluricellulaire d’un filament d’un thalle de Cyanobactérie, forme de multiplication asexuée pouvant régénérer un thalle complet. — (Romaric Forêt, Dico de Bio, De Boeck, 2006)",inanimate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_écossage__nom__1,écossage,"Action d’écosser (des pois, des haricots...).",dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_plattiste__nom__1,plattiste,Personne qui parle platt.,animate,inanimate,inanimate,valid
+ws_1_ténériffe__nom__1,ténériffe,Synonyme de bichon à poil frisé (race de chien).,animate,inanimate,inanimate,valid
+ws_1_cobalt_arsenical__nom__1,cobalt_arsenical,Synonyme de smaltite.,inanimate,inorganic,INVALID,none
+ws_4_levé__nom__1,levé,"Se dit de l’ours quand il est représenté debout sur ses pattes arrière. À rapprocher de debout, en pied et rampant.",stative_situation,inanimate,inanimate,valid
+ws_1_signal_pendant__nom__1,signal_pendant,"Signal du système d’exploitation, qui a été envoyé à un processus, mais qui n’a pas encore été pris en compte par ce dernier.",information,dynamic_situation*information,dynamic_situation*information,valid
+ws_3_rendu_à_la_frontière__nom__1,rendu_à_la_frontière,Les conditions internationales de vente ont été réactualisées en 2004. Voir Journal officiel du 24 avril 2004. La définition des conditions internationales de vente par la Chambre de commerce internationale peut être consultée dans l’édition des Incoterms 2000.,information,information,information,valid
+ws_12_Villersois__nom__1,Villersois,"Habitant de Villers-au-Tertre, commune française située dans le département du Nord.",animate,institution,institution,valid
+ws_1_Voissayenne__nom__1,Voissayenne,"Habitante de Voissay, commune française située dans le département de la Charente-Maritime.",animate,institution,institution,valid
+ws_4_Essartais__nom__1,Essartais,"Habitant des Essarts, commune française située dans le département de la Vendée.",animate,institution,institution,valid
+ws_1_impie__nom__1,impie,Personne impie.,animate,inanimate,inanimate,valid
+ws_1_bite__nom__2,bite,Surnom affectif que l’on donne à un garçon.,animate,inanimate,inanimate,valid
+ws_1_hippobdelle__nom__1,hippobdelle,"Sangsue du cheval, sorte de sangsue.",animate,inanimate,inanimate,valid
+ws_1_Campandréenne__nom__1,Campandréenne,"Habitante de Campandré-Valcongrain, commune française située dans le département du Calvados.",animate,institution,institution,valid
+ws_1_fquih__nom__1,fquih,Maître d’école coranique.,animate,institution,institution,valid
+ws_1_Pernoisienne__nom__1,Pernoisienne,"Habitante de Pernois, commune française située dans le département de la Somme.",animate,institution,institution,valid
+ws_1_argus_bleu_céleste__nom__1,argus_bleu_céleste,Synonyme d’azuré bleu céleste (papillon).,animate,inanimate*information,inanimate*information,valid
+ws_1_moufle__nom__3,moufle,Gros visage rond.,inanimate,inanimate,inanimate,valid
+ws_1_kaiju__nom__1,kaiju,"Terme japonais désignant des créatures étranges, particulièrement les monstres géants des films japonais appelés kaijū eiga.",animate,institution,institution,valid
+ws_1_ora__nom__1,ora,Cépage très précoce donnant du raisin de table qui se présente en grosses grappes avec de très gros grains jaune d’or. Il s’agit d’un cépage issu d’un croisement entre le cépage cardinal et une espèce issue du croisement entre perle de Csaba et cinsaut.,other,inanimate,inanimate,valid
+ws_1_nord-ouest-quart-nord__nom__1,nord-ouest-quart-nord,Point de l’horizon qui est entre le nord-ouest et le nord-nord-ouest.,quantity,dynamic_situation,dynamic_situation,valid
+ws_1_Carillonnais__nom__1,Carillonnais,"Habitant de Carillon, village québécois de la municipalité de Saint-André-d’Argenteuil [1].",animate,inhabitant,INVALID,none
+ws_1_maçonnologue__nom__1,maçonnologue,"Spécialiste de la maçonnologie, étude de la franc-maçonnerie.",animate,information,information,valid
+ws_1_brimbelle__nom__1,brimbelle,Myrtille sauvage.,inanimate,inanimate,inanimate,valid
+ws_1_désincamération__nom__1,désincamération,"Acte de la cour romaine, qui met fin à l’incamération d’un domaine.",dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_Ménerbien__nom__1,Ménerbien,"Habitant de Ménerbes, commune française située dans le département du Vaucluse.",animate,institution,institution,valid
+ws_1_Black_Bloc__nom__1,Black_Bloc,Groupe de manifestants masqués et vêtus de noir.,animate,inanimate,inanimate,valid
+ws_1_expansion_de_l’Univers__nom__1,expansion_de_l’Univers,Définition manquante ou à compléter. (Ajouter)…,dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_tour_de_bonneteau__nom__1,tour_de_bonneteau,Tromperie ; arnaque.,dynamic_situation,inanimate*information,inanimate*information,valid
+ws_1_endellite__nom__1,endellite,"Variété d’halloysite dite halloysite-10 Å, de formule brute A2Si2O5(OH)4•2H2O.",inanimate,inanimate,inanimate,valid
+ws_1_Oberhergheimoise__nom__1,Oberhergheimoise,"Habitante d’Oberhergheim, commune française située dans le département du Haut-Rhin.",animate,institution,institution,valid
+ws_1_craquet__nom__1,craquet,"Nom vernaculaire du fucus vésiculeux (Fucus vesiculosus), une espèce de varech répandue dans tout l’hémisphère nord.",inanimate,inanimate,inanimate,valid
+ws_1_FRB__nom__1,FRB,Sursaut radio rapide.,dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_5_drogue_du_zombie__nom__1,drogue_du_zombie,"Nom vulgaire de la méthamphétamine de formule chimique C10H15N, drogue de synthèse sympathicomimétique et psychoanaleptique, extrêmement addictive.",inanimate,inanimate,inanimate,valid
+ws_1_foramen_mandibulaire__nom__1,foramen_mandibulaire,Ouverture sur la surface interne de la branche montante de la mandibule.,inanimate,inanimate,inanimate,valid
+ws_1_empatage__nom__1,empatage,Action d’empater.,dynamic_situation,inanimate*information,inanimate*information,valid
+ws_1_héliange__nom__1,héliange,"Genre d’oiseaux-mouches nectarivores de la sous-famille des trochilinés (e.g. colibris, etc.), totalisant huit espèces à plumage iridescent caractérisés par la gorgerette brillamment colorée du mâle, et de couleur variant selon l’espèce, défendant souvent farouchement leurs aires d’alimentation en nectar, et préconisant les forêts de nuage et les forêts naines clairsemées des Andes de la zone tropicale (genre Heliangelus).",animate,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_Saintaignanaise__nom__1,Saintaignanaise,"Habitante de Saint-Aignan, commune française située dans le département du Morbihan.",animate,institution,institution,valid
+ws_2_Queyssacois__nom__1,Queyssacois,"Habitant de Queyssac-les-Vignes, commune de la Corrèze.",animate,inhabitant,INVALID,none
+ws_1_CSR__nom__1,CSR,Demande de signature de certificat : message envoyé à partir d’un demandeur à une autorité de certification afin de demander un certificat d’identité numérique.,dynamic_situation*information,dynamic_situation*information,dynamic_situation*information,valid
+ws_2_Creuziéroise__nom__1,Creuziéroise,"Habitante de Creuzier-le-Vieux, commune française située dans le département de l’Allier.",animate,institution,institution,valid
+ws_1_gaviidés__nom__1,gaviidés,"Famille d’oiseaux néognathes aquatiques plongeurs d’assez grande taille, habitant les zones septentrionales du globe et constituée aujourd’hui des cinq espèces de plongeons du genre Gavia.",animate,inanimate,inanimate,valid
+ws_1_Orbecquois__nom__1,Orbecquois,"Habitant d’Orbec, commune française située dans le département du Calvados.",animate,institution,institution,valid
+ws_1_microalgue__nom__1,microalgue,Algue microscopique.,inanimate,inanimate,inanimate,valid
+ws_1_entraînement_en_boucle__nom__1,entraînement_en_boucle,Entraînement musculaire et cardiovasculaire qui consiste à répéter un enchaînement de différents exercices physiques brefs et intenses avec des temps de récupération réduits.,dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_enculeur__nom__1,enculeur,Celui pratique la sodomie active.,animate,stative_situation,stative_situation,valid
+ws_1_Parisotine__nom__1,Parisotine,"Habitante de Parisot, commune française située dans le département du Tarn-et-Garonne.",animate,institution,institution,valid
+ws_1_Soumagnard__nom__1,Soumagnard,Habitant de Soumagne en Belgique.,animate,inhabitant,INVALID,none
+ws_3_salière__nom__1,salière,Creux que les humains ont quelquefois au dessus des clavicules.,inanimate,inanimate,inanimate,valid
+ws_2_speedball__nom__1,speedball,"Autres combinaisons de stimulants et de dépresseurs, comme les amphétamines avec les benzodiazépines.",inanimate,inanimate*information,inanimate*information,valid
+ws_1_fustok__nom__1,fustok,Variante de fustoc.,inanimate,information,information,valid
+ws_2_Saint-Bricienne__nom__1,Saint-Bricienne,"Habitante de Saint-Bris-des-Bois, commune française située dans le département de la Charente-Maritime.",animate,inhabitants,INVALID,none
+ws_1_fol-en-Christ__nom__1,fol-en-Christ,Personne qui abandonne ses biens matériels et mène une vie de transgression des conventions sociales dans un esprit religieux.,animate,inmatelement,INVALID,none
+ws_1_myrtillier__nom__1,myrtillier,Arbrisseau de petite taille sur lequel poussent les myrtilles.,inanimate,inanimate,inanimate,valid
+ws_1_truqueuse__nom__1,truqueuse,"Personne qui truque des choses, qui contrefait, qui triche.",animate,inanimate,inanimate,valid
+ws_1_thysanure__nom__1,thysanure,"Insecte de l’ordre désuet des Thysanura voisin des névroptères, ne subissant pas de métamorphose, dont la bouche est disposée pour broyer, et dont l’abdomen est terminé par trois filets servant à sauter. Deux ordres lui ont succédé, les Zygentoma et les Archaeognatha.",animate,inanimate,inanimate,valid
+ws_1_investissement_de_remplacement__nom__1,investissement_de_remplacement,Investissement destiné à remplacer un bien usé ou obsolète.,other,inanimate,inanimate,valid
+ws_1_arien__nom__1,arien,"Hérétique chrétien, partisan de l’arianisme, qui niait la divinité de Jésus-Christ.",animate,stative_situation,stative_situation,valid
+ws_1_Cabanois__nom__1,Cabanois,"Habitant de Cabano, ancienne ville québécoise, désormais secteur de Témiscouata-sur-le-Lac [1].",animate,inanimate,inanimate,valid
+ws_1_naturophile__nom__1,naturophile,Personne qui aime la nature.,animate,inanimate,inanimate,valid
+ws_2_gaffe__nom__1,gaffe,Bêtise.,dynamic_situation,inanimate,inanimate,valid
+ws_1_coco-fesses__nom__1,coco-fesses,Nom de la noix double géante du cocotier de mer.,inanimate,inanimate,inanimate,valid
+ws_4_sautoir__nom__1,sautoir,Long collier de perles ou d’autres matières qui descend très bas sur la poitrine.,inanimate,inanimate,inanimate,valid
+ws_1_ouche__nom__2,ouche,Entaille que le dresseur fait sur un canon de fusil pour indiquer la position et la profondeur d’un mal-égal qui doit être enlevé à la meule.,inanimate,inanimate,inanimate,valid
+ws_1_non-propriétaire__nom__1,non-propriétaire,Personne non-propriétaire.,animate,inanimate,inanimate,valid
+ws_5_unité__nom__1,unité,"Caractère de ce qui offre un ensemble, une suite où tout se tient.",stative_situation,dynamic_situation,dynamic_situation,valid
+ws_1_vestan__nom__1,vestan,Variété de quartz.,inanimate,inanimate,inanimate,valid
+ws_1_diplomatie_multilatérale__nom__1,diplomatie_multilatérale,"Forme de diplomatie s’exerçant dans le cadre de rencontres où sont représentés plusieurs pays, le plus souvent sous l’égide d’une organisation internationale, et dans la perspective d’une action commune.",dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_Abitibi-Témiscamienne__nom__1,Abitibi-Témiscamienne,"Habitante de l’Abitibi-Témiscamingue, région administrative québécoise [1].",animate,institution,institution,valid
+ws_4_bauge__nom__1,bauge,Mortier de terre grasse mêlée de paille.,inanimate,inanimate,inanimate,valid
+ws_2_infodivertissement__nom__1,infodivertissement,"Même sens, utilisé pour critiquer les médias.",dynamic_situation,information,information,valid
+ws_2_prévalence__nom__1,prévalence,"Nombre de maladies ou de malades présents à un moment donné dans une population, que le diagnostic ait été porté anciennement ou récemment.",quantity,dynamic_situation*information,dynamic_situation*information,valid
+ws_3_bouillotte__nom__1,bouillotte,"Visage, physionomie (voir bouille).",inanimate,inanimate,inanimate,valid
+ws_1_rajab__nom__1,rajab,Variante de radjab.,time,inanimate,inanimate,valid
+ws_1_flexage__nom__1,flexage,"Action de fléchir, de rendre flexible.",dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_pétaoctet__nom__1,pétaoctet,"Unité de mesure de quantité d’information numérique, valant 1015 octets, et dont le symbole est Po.",quantity,quantity,quantity,valid
+ws_2_marié__nom__1,marié,"Personne, homme ou femme, qui se marie ou qui s’est mariée le jour même.",animate,stative_situation,stative_situation,valid
+ws_1_homme_de_référence__nom__1,homme_de_référence,Individu-type dont les caractéristiques anatomiques et physiologiques ont été définies à des fins d’évaluation en matière de radioprotection.,animate,institution,institution,valid
+ws_16_retour__nom__1,retour,"Réversion, du droit en vertu duquel les ascendants rentrent dans la possession des choses qu’ils ont données à leurs descendants, lorsque ceux-ci viennent à mourir sans enfants.",possession,institution,institution,valid
+ws_1_Montendraise__nom__1,Montendraise,"Habitante de Montendre, commune française située dans le département de la Charente-Maritime.",animate,institution,institution,valid
+ws_1_hydroéthique__nom__1,hydroéthique,"Fondée sur l’expérience et le partage de la connaissance, l’hydroéthique est la combinaison synergique de la chimie, de l’électronique, de la mécanique, de l’informatique. L’intérêt de ce domaine d’ingénierie transdisciplinaire est de concevoir et de mettre en œuvre des solutions préventives et curatives respectueuses de l’environnement, ainsi que des outils de contrôle et de surveillance, destinés aux réseaux hydrauliques industriels.",information,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_andalouse_grise__nom__1,andalouse_grise,Race d’andalouse à robe grise (race de bovins).,animate,institution,institution,valid
+ws_3_communisme__nom__1,communisme,"Système économique et social, théorisé par Karl Marx, caractérisé par la propriété collective des biens et des moyens de production.",information,institution,institution,valid
+ws_1_chrysargyre__nom__1,chrysargyre,Taxe sur les profits commerciaux instituée par Constantin et supprimée par Anastase Ier en 498.,possession,dynamic_situation,dynamic_situation,valid
+ws_1_fournache__nom__1,fournache,"Amas d’herbes, de racines et de feuilles sèches provenant du sarclage, de l’écobuage, etc. qu’on brûle dans les champs pour en utiliser les cendres comme amendement.",inanimate,inanimate,inanimate,valid
+ws_5_forçage__nom__1,forçage,Excédent que peut avoir une pièce au-dessus du poids légal.,stative_situation,inanimate,inanimate,valid
+ws_1_anticliché__nom__1,anticliché,"Ce qui est à l’opposé de ce qu’on s’imagine, à l’opposé du cliché ou du stéréotype.",information,inanimate*information,inanimate*information,valid
+ws_1_Lescouëtaise__nom__1,Lescouëtaise,"Habitante de Lescouët-Gouarec, commune française située dans le département des Côtes-d’Armor.",animate,institution,institution,valid
+ws_5_demi-lune__nom__1,demi-lune,Pâte alimentaire fourrée en forme de demi-lune.,inanimate,inanimate*information,inanimate*information,valid
+ws_2_fourre__nom__1,fourre,"Chemise, généralement en plastique, utilisée pour le classement des documents, de format A4 en général [2].",inanimate,inanimate*information,inanimate*information,valid
+ws_1_hongroyeur__nom__1,hongroyeur,Tanneur qui façonne le cuir selon un procédé attribué au tanneurs de Hongrie.,animate,inanimate,inanimate,valid
+ws_1_système_d’infodivertissement__nom__1,système_d’infodivertissement,"Équipement embarqué qui regroupe les fonctions de géonavigation, de téléphonie, ainsi que l’accès à des contenus audio et vidéo ou à des services en ligne.",inanimate,inanimate*information,inanimate*information,valid
+ws_1_adresse_universelle__nom__1,adresse_universelle,"Dénomination unique à caractère universel qui permet de localiser une ressource ou un document sur l’Internet, et qui indique la méthode pour y accéder, le nom du serveur et le chemin à l’intérieur du serveur.",information,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_agriculture_naturelle__nom__1,agriculture_naturelle,Forme d’agriculture qui repose sur les processus naturels et limite les interventions humaines aux seuls ensemencements et récoltes.,dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_1_Daghestanais__nom__1,Daghestanais,habitant du Daghestan,animate,inhabitants,INVALID,none
+ws_1_Fromentinais__nom__1,Fromentinais,"Habitant de Fromentières, commune française située dans le département de la Mayenne.",animate,institution,institution,valid
+ws_1_pont-l’évêque__nom__1,pont-l’évêque,"Fromage à pâte molle à croûte lavée au lait de vache, produit en Normandie.",inanimate,inanimate,inanimate,valid
+ws_1_seizième__nom__4,seizième,"Six cartes de même couleur qui se suivent sans interruption ; ainsi dite parce qu’elle se compte seize, dans le jeu du piquet.",other,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_toxine_botulique__nom__1,toxine_botulique,"Toxine responsable du botulisme, sécrétée par la bactérie Clostridium botulinum.",inanimate,inanimate*information,inanimate*information,valid
+ws_1_Afrikans__nom__1,Afrikans,Variante orthographique de Afrikaans.,animate,information,information,valid
+ws_1_sergetterie__nom__1,sergetterie,Sergerie.,dynamic_situation,institute,INVALID,none
+ws_2_champ_magnétique__nom__1,champ_magnétique,Entourage.,stative_situation,inanimate*information,inanimate*information,valid
+ws_1_ægyptien__nom__1,ægyptien,Ancienne orthographe d’égyptien.,information,information,information,valid
+ws_1_Heurteauvillaise__nom__1,Heurteauvillaise,"Habitante de Heurteauville, commune française située dans le département de la Seine-Maritime.",animate,inhabitant,INVALID,none
+ws_3_verre__nom__1,verre,Système optique utilisé par exemple sur les lunettes.,inanimate,inanimate*information,inanimate*information,valid
+ws_1_pain_de_glace__nom__1,pain_de_glace,"Bloc en plastique conservant le froid longtemps grâce au liquide qu’il contient, mélange d’eau et de composés eutectiques.",inanimate,inanimate,inanimate,valid
+ws_1_cellule__nom__1,cellule,"Petite pièce d’habitation, espace clos.",inanimate,inanimate,inanimate,valid
+ws_2_cellule__nom__1,cellule,Chambrette qui abrite un religieux.,inanimate,inanimate,inanimate,valid
+ws_3_cellule__nom__1,cellule,"Pièce exiguë pour l’habitation dans une institution, généralement destinée à l’enfermement.",inanimate,institution,institution,valid
+ws_4_cellule__nom__1,cellule,Cachot qui renferme un ou plusieurs prisonniers.,inanimate,dynamic_situation*information,dynamic_situation*information,valid
+ws_5_cellule__nom__1,cellule,Alvéole dans une ruche.,inanimate,dynamic_situation*information,dynamic_situation*information,valid
+ws_7_cellule__nom__1,cellule,Unité morphologique ou fonctionnelle d’un ensemble organisé.,information,inanimate,inanimate,valid
+ws_8_cellule__nom__1,cellule,"Unité structurale et fonctionnelle constituant tout (unicellulaire) ou une partie (pluricellulaire) d’un être vivant, constituée d’un cytoplasme organisé autour d’un noyau et délimité par une membrane.",inanimate,animate,animate,valid
+ws_9_cellule__nom__1,cellule,"Petit groupe spécialisé, dans une organisation.",other,institute,INVALID,none
+ws_10_cellule__nom__1,cellule,"Unité de base du parti communiste, petit groupe de militants.",other,institution,institution,valid
+ws_12_cellule__nom__1,cellule,"Élément fonctionnel d’une machine, d’un ordinateur, etc.",information,inanimate,inanimate,valid
+ws_13_cellule__nom__1,cellule,"Case, unité de base d’une feuille de calcul, d’un tableur.",information,inanimate*information,inanimate*information,valid
+ws_14_cellule__nom__1,cellule,Unité de base du système atmosphérique.,information,inanimate,inanimate,valid
+ws_15_cellule__nom__1,cellule,"Capteur d’un tourne-disque, qui transforme les déplacements de son style, entrainé par le sillon du disque, en signal électrique.",inanimate,inanimate*information,inanimate*information,valid
+ws_16_cellule__nom__1,cellule,Partie d’une aile d’insecte.,inanimate,inanimate,inanimate,valid
+ws_17_cellule__nom__1,cellule,Zone géographique couverte par une antenne-relais de téléphonie mobile.,inanimate,dynamic_situation*information,dynamic_situation*information,valid
+ws_18_cellule__nom__1,cellule,"Zone géographique élémentaire à laquelle est assigné, pour un service donné, un ensemble de fréquences non utilisables dans les zones proches.",inanimate,dynamic_situation*information,dynamic_situation*information,valid
+ws_19_cellule__nom__1,cellule,Paquet comprenant un nombre fixe d’éléments binaires dans le mode de transfert asynchrone.,information,informaton,INVALID,none
+ws_20_cellule__nom__1,cellule,Face tridimensionnelle d’un polychore. 3-face.,information,inanimate,inanimate,valid
+ws_1_code__nom__1,code,Ensemble de lois ou d’ordonnances relatives à une matière spéciale ou réunies par le législateur.,information,institution,institution,valid
+ws_2_code__nom__1,code,Publication constituant une codification privée.,inanimate*information,information,information,valid
+ws_3_code__nom__1,code,"Droit, lois.",information,institute,INVALID,none
+ws_4_code__nom__1,code,"Feu de croisement, dispositif d’éclairage d’un véhicule automobile, moins éblouissant que les phares, prévu par le code de la route et utilisé lorsque ce véhicule en croise un autre.",inanimate,dynamic_situation*information,dynamic_situation*information,valid
+ws_5_code__nom__1,code,L’épreuve théorique du permis de conduire.,dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_6_code__nom__1,code,"Ensemble de coutumes, de préceptes ou de règles écrites ou non, qu’il est convenu de respecter dans un domaine, dans un milieu donné.",information,institution,institution,valid
+ws_7_code__nom__1,code,Système de symboles servant à échanger des informations.,information,information,information,valid
+ws_8_code__nom__1,code,Langage secret.,information,inanimate*information,inanimate*information,valid
+ws_9_code__nom__1,code,Ensemble de règles ou contraintes qui assurent le fonctionnement du langage.,information,dynamic_situation*information,dynamic_situation*information,valid
+ws_10_code__nom__1,code,"Langage de programmation informatique, programme informatique.",information,information,information,valid
+ws_1_unité__nom__1,unité,"Élément singulier, qui a le nombre un.",quantity,quantity,quantity,valid
+ws_2_unité__nom__1,unité,Quantité élémentaire qui est à la base d’un calcul.,quantity,quantity,quantity,valid
+ws_3_unité__nom__1,unité,"Grandeur finie, choisie arbitrairement pour servir de terme de comparaison aux autres grandeurs de même espèce.",quantity,quantity,quantity,valid
+ws_4_unité__nom__1,unité,"Caractère de ce qui est singulier, par opposition à pluralité.",stative_situation,inanimate,inanimate,valid
+ws_8_unité__nom__1,unité,"Personnage, objet ou groupe de personnages ou d’objets manipulable.",other,inanimate,inanimate,valid
+ws_9_unité__nom__1,unité,"Composant d’un appareil électronique (ordinateur, etc.) qui exécute une opération particulière.",inanimate,inanimate,inanimate,valid
+ws_10_unité__nom__1,unité,Partie d’une organisation ou d’une société.,other,institution,institution,valid
+ws_11_unité__nom__1,unité,Véhicule.,inanimate,inanimate,inanimate,valid
+ws_12_unité__nom__1,unité,Élément neutre de la multiplication dans une structure algébrique (1 dans le cadre des nombres).,information,quantity,quantity,valid
+ws_14_unité__nom__1,unité,Valeur attribuée à une certaine durée lors d’une communication téléphonique.,quantity,time,time,valid
+ws_1_verre__nom__1,verre,"Matière solide, amorphe, transparente, dure et fragile, élaborée à l’aide de sable siliceux, mêlée de calcaire, de soude ou de potasse, avec laquelle on fabrique des produits plats, comme les vitrages, des produits creux, comme la gobeleterie, les bouteilles, etc., et des fibres à l’usage de la construction.",inanimate,inanimate,inanimate,valid
+ws_2_verre__nom__1,verre,Objet de cette matière.,inanimate,inanimate,inanimate,valid
+ws_4_verre__nom__1,verre,"Récipient cylindrique, de verre, de plastique, de carton ou de papier, servant notamment à la consommation des boissons.",inanimate,inanimate,inanimate,valid
+ws_5_verre__nom__1,verre,Contenu d’un verre à boire.,other,inanimate*information,inanimate*information,valid
+ws_1_flux__nom__1,flux,"Écoulement, mouvement ou déplacement, en général d’un fluide, ou de populations ; action de couler ; écoulement.",dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_2_flux__nom__1,flux,Mouvement de la marée montante.,dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_3_flux__nom__1,flux,"Transfert ou déplacement, de données ou d’énergie.",other,dynamic_situation*information,dynamic_situation*information,valid
+ws_4_flux__nom__1,flux,Produit qui permet de protéger de l’oxydation ou fluidifier un métal en fusion.,inanimate,inanimate*information,inanimate*information,valid
+ws_5_flux__nom__1,flux,Écoulement d’un liquide organique hors de son réservoir habituel.,dynamic_situation,dynamic_situation,dynamic_situation,valid
+ws_6_flux__nom__1,flux,"Abondance, en parlant de la vicissitude, du changement alternatif de certaines choses.",other,dynamic_situation,dynamic_situation,valid
+ws_1_canal__nom__1,canal,Conduit par où l’eau passe. — Note : En ce sens il se dit des aqueducs et des tuyaux de fontaines.,other,inanimate,inanimate,valid
+ws_2_canal__nom__1,canal,"Voies naturelles par lesquelles les eaux, les vapeurs, les gaz, etc., circulent dans le sein de la terre, y pénètrent ou s’en échappent.",inanimate,dynamic_situation,dynamic_situation,valid
+ws_3_canal__nom__1,canal,Vaisseau. — Note d’usage : il se dit plus particulièrement de certaines parties dont les unes servent de couloirs à des substances liquides ou molles et dont d’autres renferment des organes particuliers.,inanimate,inanimate,inanimate,valid
+ws_4_canal__nom__1,canal,Lit ou cours d’une rivière.,inanimate,inanimate,inanimate,valid
+ws_5_canal__nom__1,canal,Tranchée creusée de main d’homme pour établir des communications par eau d’un lieu à un autre et faciliter le transport des denrées et des marchandises.,inanimate,dynamic_situation,dynamic_situation,valid
+ws_6_canal__nom__1,canal,Certaines pièces d’eau étroites et longues qui servent d’ornement dans les jardins.,inanimate,inanimate,inanimate,valid
+ws_7_canal__nom__1,canal,Certains lieux où la mer se resserre entre deux rivages.,inanimate,dynamic_situation,dynamic_situation,valid
+ws_9_canal__nom__1,canal,Fréquence ou bande de fréquence utilisée pour une transmission.,dynamic_situation,dynamic_situation*information,dynamic_situation*information,valid
+ws_1_espoir__nom__1,espoir,"Fait d’espérer. — Note d’usage : Pour ce sens, ce mot est rare au pluriel ; on le dit pourtant quelquefois dans la poésie et dans le style soutenu.",stative_situation,stative_situation,stative_situation,valid
+ws_2_espoir__nom__1,espoir,La chose espérée.,information,possession,possession,valid
