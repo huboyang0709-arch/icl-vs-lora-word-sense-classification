@@ -1,0 +1,14 @@
+# GPU notebooks (Kaggle, Tesla T4). Installing unsloth pulls compatible versions of the libraries below.
+unsloth==2026.10.7
+transformers==5.16.1
+peft==0.20.0
+bitsandbytes==0.50.2
+trl
+datasets
+accelerate
+
+# Analysis (notebook 04, CPU)
+pandas
+numpy
+scikit-learn
+matplotlib

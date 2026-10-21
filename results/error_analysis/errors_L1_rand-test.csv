@@ -1,0 +1,91 @@
+sense_id,lemma,definition,gold,pred,pred_without_lemma,supersense,lemma_freq,context_dependent
+ws_1_spiroptère__nom__1,spiroptère,"Genre d’helminthes à corps cylindrique aminci soit aux deux bouts, soit en avant ou en arrière seulement.",animate,inanimate,inanimate,animal,0,False
+ws_1_hack__nom__2,hack,Cheval monté pour surveiller les performances et le comportement des autres chevaux.,animate,inanimate,animate,animal,0,False
+ws_7_direction__nom__1,direction,Direction collégiale Où les décisions sont prises conjointement par plusieurs personnes d’égal pouvoir.,animate,institution,institution,groupxperson,8,False
+ws_1_oariste__nom__1,oariste,Variante de oaristys.,dynamic_situation,animate,information,act,0,True
+ws_3_mépris__nom__1,mépris,Paroles ou actes de mépris.,dynamic_situation,dynamic_situation*information,dynamic_situation*information,act,2,False
+ws_15_couverture__nom__1,couverture,Action d’enquêter puis de relater l’enquête par les journaux.,dynamic_situation,dynamic_situation*information,dynamic_situation*information,act,1,False
+ws_1_rot__nom__2,rot,"Pourriture, maladie de la vigne.",dynamic_situation,inanimate,dynamic_situation,event,0,False
+ws_3_brûlure__nom__1,brûlure,"Altérations produites sur les végétaux au printemps, soit par l’action du soleil, soit par l’effet de la gelée ou du vent.",dynamic_situation,inanimate,dynamic_situation,event,0,False
+ws_4_planimétrie__nom__1,planimétrie,"Technique ayant pour but de déterminer sur des zones de faible étendue, la projection à l’horizontale d’éléments topographiques.",dynamic_situation,information,dynamic_situation,act,0,False
+ws_5_couverture__nom__1,couverture,Garantie de protection donnée par un assureur.,dynamic_situation,information,dynamic_situation,act,1,False
+ws_1_ronron__nom__1,ronron,Onomatopée qui sert à désigner le ronflement continu et sourd par lequel les chats expriment leur contentement.,dynamic_situation,other,other,act,0,False
+ws_10_couverture__nom__1,couverture,Ensemble des moyens militaires servant à se protéger d’une attaque.,dynamic_situation,other,other,act,1,False
+ws_1_raphanie__nom__1,raphanie,"Nom donné par Linné à une maladie convulsive assez fréquente en Allemagne et en Suède, et qu’on attribue au Raphanus raphanistrum, Linné plante crucifère dont les semences sont mêlées avec le blé.",dynamic_situation,stative_situation,stative_situation,event,0,False
+ws_1_ataxie_de_Friedreich__nom__1,ataxie_de_Friedreich,Maladie neurologique évolutive d’origine génétique qui provoque des troubles de l’équilibre.,dynamic_situation,stative_situation,stative_situation,event,0,False
+ws_1_bayoud__nom__1,bayoud,"Maladie des palmiers-dattiers, causée par une espèce de fusariose (Fusarium oxysporum, forme albedinis).",dynamic_situation,stative_situation,dynamic_situation,event,0,False
+ws_1_entérite_paratuberculeuse__nom__1,entérite_paratuberculeuse,Synonyme de paratuberculose.,dynamic_situation,stative_situation,stative_situation,event,0,True
+ws_3_redondance__nom__1,redondance,"Doublement (ou plus) d’un système de contrôle, de pilotage, etc. pour améliorer sa fiabilité.",dynamic_situation,stative_situation,stative_situation,act,0,False
+ws_1_rimbombo__nom__1,rimbombo,Retentissement.,dynamic_situation,stative_situation,stative_situation,event,0,False
+ws_14_direction__nom__1,direction,"Fonction de directeur de conscience, qui guide par ses conseils la vie spirituelle d’une personne.",dynamic_situation,stative_situation,stative_situation,act,8,False
+ws_1_obédience__nom__1,obédience,Obéissance. Note : il ne se dit ordinairement qu’en parlant des religieux.,dynamic_situation,stative_situation,stative_situation,act,1,False
+ws_1_gueulade__nom__1,gueulade,"Cri ou suite de cris, vociférations, d’une personne qui gueule, de personnes qui gueulent.",dynamic_situation*information,other,other,act*cognition,0,False
+ws_3_Méganticois__nom__1,Méganticois,"Peuplement archéologique de la région, remontant du troisième au sixième millénaires avant Jésus-Christ.",inanimate,animate,inanimate,object,0,False
+ws_1_découvite__nom__1,découvite,Variante de découd-vite.,inanimate,dynamic_situation,inanimate,artifact,0,True
+ws_2_couverture__nom__1,couverture,Première page d’un ouvrage imprimé.,inanimate,inanimate*information,inanimate*information,artifact,1,False
+ws_3_couverture__nom__1,couverture,Partie extérieure d’un livre servant à le protéger.,inanimate,inanimate*information,inanimate*information,artifact,1,False
+ws_1_zonier__nom__2,zonier,"Résultat du découpage d’un territoire en zones, en fonction de l’exposition aux risques.",inanimate,information,stative_situation,artifact,0,False
+ws_3_pièce__nom__1,pièce,Morceau permettant de constituer une image. → voir pièce de puzzle,inanimate,information,inanimate,artifact,2,False
+ws_29_pièce__nom__1,pièce,Élément venant compléter un ensemble existant. → voir pièce rapportée et pièce ajoutée,inanimate,information,information,artifact,2,False
+ws_39_pièce__nom__1,pièce,Résultat du fractionnement d’un ensemble dénombrable.,inanimate,information,quantity,artifact,2,False
+ws_46_pièce__nom__1,pièce,"Caractère d’un objet singulier. → voir pièce visée, petite pièce, pièce classique, pièce maîtresse, la meilleure pièce de son sac, pièce justificative et …",inanimate,information,stative_situation,artifact,2,False
+ws_1_centrale_thermique__nom__1,centrale_thermique,Centrale électrique qui produit de l’électricité à partir d’une source de chaleur.,inanimate,institution,institution,artifact,0,False
+ws_5_direction__nom__1,direction,Ensemble de bureaux où sont installés un directeur et ses collaborateurs.,inanimate,institution,institution,artifact,8,False
+ws_1_coffle__nom__1,coffle,Caravane.,inanimate,other,inanimate,artifact,0,False
+ws_4_chapelle__nom__1,chapelle,"Lieu où l’on célèbre l’office religieux, dans un domaine privé, dans un hospice, dans un collège, etc.",inanimate,other,inanimate,artifact,0,False
+ws_28_pièce__nom__1,pièce,"Objet (spatial ou temporel) formant un tout compact identifiable pouvant appartenir à un ensemble plus général. → voir pièce de gibier, pièce de théâtre, pièce à main et être près de ses pièces",inanimate,other,inanimate,artifact,2,False
+ws_41_pièce__nom__1,pièce,Base de calcul d’un coût industriel.,inanimate,possession,quantity,artifact,2,False
+ws_42_pièce__nom__1,pièce,"Pièce de monnaie frappée en métal. → voir pièce d’or, pièce d’argent et pièce de bronze",inanimate,possession,possession,artifact,2,False
+ws_1_pièce__nom__1,pièce,"Chacun des éléments d’un ensemble défini. → voir pièce détachée, de toutes pièces, juger sur pièces, pièce à pièce et pièce par pièce",inanimate,quantity,other,artifact,2,False
+ws_25_pièce__nom__1,pièce,Morceau d’un ensemble obtenu par découpage.,inanimate,quantity,quantity,artifact,2,False
+ws_33_pièce__nom__1,pièce,"Servant d’unité, de référence ou de support à une évaluation",inanimate,quantity,information,artifact,2,False
+ws_40_pièce__nom__1,pièce,Plus petit élément d’un lot.,inanimate,quantity,quantity,artifact,2,False
+ws_1_skeud__nom__1,skeud,Disque.,inanimate*information,inanimate,inanimate,artifact*cognition,0,False
+ws_1_pneumogramme__nom__1,pneumogramme,"Tracé des mouvements respiratoires, obtenu grâce à un pneumographe.",inanimate*information,information,inanimate*information,artifact*cognition,0,False
+ws_45_pièce__nom__1,pièce,"Œuvre ou ouvrage de l’esprit, dont chacun fait un tout complet. → voir pièce de théâtre et pièce de musique",inanimate*information,information,information,artifact*cognition,2,False
+ws_7_personnage__nom__1,personnage,Figure d’une composition.,information,animate,information,cognition,1,False
+ws_4_massacre__nom__1,massacre,"Discours, critique très sévère qui n’épargne rien ni personne.",information,dynamic_situation*information,dynamic_situation*information,cognition,1,False
+ws_1_redorte__nom__1,redorte,"Branche d’arbre tortillée en anneaux les uns sur les autres alternativement dessus/dessous. Le nombre d’anneaux (ou croisements) doivent être blasonnés et quand elle est feuillée, on doit indiquer le nombre de pièces.",information,inanimate,inanimate,cognition,0,False
+ws_8_couverture__nom__1,couverture,Ce qui sert à cacher ou à dissimuler.,information,inanimate,inanimate,cognition,1,False
+ws_1_webisode__nom__1,webisode,"Épisode, généralement court, d’une série qui est diffusé uniquement sur Internet.",information,inanimate*information,information,cognition,0,False
+ws_6_obédience__nom__1,obédience,Rattachement à une doctrine.,information,stative_situation,stative_situation,cognition,1,False
+ws_1_aurore__nom__2,aurore,"Couleur d’aurore, jaune doré. #FFCB60",information,stative_situation,stative_situation,cognition,0,False
+ws_2_parallaxe__nom__1,parallaxe,Angle formé par le rayon visuel mené d’un point de la surface de la Terre à un astre avec le rayon mené du centre de la Terre à cet astre.,information,stative_situation,stative_situation,cognition,0,True
+ws_1_échelle_internationale_des_évènements_nucléaires_et_radiologiques__nom__1,échelle_internationale_des_évènements_nucléaires_et_radiologiques,Classement des évènements nucléaires et radiologiques par ordre croissant de gravité.,information,stative_situation,dynamic_situation,cognition,0,False
+ws_1_classisme__nom__1,classisme,Discrimination fondée sur la classe sociale.,information,stative_situation,dynamic_situation,cognition,0,False
+ws_6_personnage__nom__1,personnage,Manière dont on se conduit.,information,stative_situation,stative_situation,cognition,1,False
+ws_1_Macrolépidoptères__nom__1,Macrolépidoptères,Sous-ordre des lépidoptères.,other,animate,animate,other,0,False
+ws_5_bouche__nom__1,bouche,"Service, officier de la bouche du roi : service, officier chargés autrefois de tout ce qui concernait les repas du roi et de sa famille.",other,animate,animate,other,4,False
+ws_3_direction__nom__1,direction,Personne ou ensemble des personnes qui dirigent.,other,animate,animate,other,8,False
+ws_2_gémonies__nom__1,gémonies,"Châtiment, outrage.",other,dynamic_situation,dynamic_situation,other,0,False
+ws_1_enchanterie__nom__1,enchanterie,Enchantement.,other,dynamic_situation,stative_situation,other,0,False
+ws_2_auto-isolement__nom__1,auto-isolement,Fait pour une personne ou un groupe de personnes de se couper des autres ou du reste de la collectivité.,other,dynamic_situation,dynamic_situation,other,0,False
+ws_1_bétonnage__nom__1,bétonnage,Ouvrage de béton.,other,inanimate,inanimate,other,0,False
+ws_6.f_queue__nom__1,queue,"Extrémité d’une pierre longue, entrant dans la construction d’un mur ou d’une voûte.",other,inanimate,inanimate,other,0,False
+ws_2_pluviomètre__nom__1,pluviomètre,Ce qui enregistre les précipitations.,other,inanimate,inanimate,other,0,False
+ws_2_akébie__nom__1,akébie,"Fruit d’une plante du genre Akebia, comestible dans le cas des espèces Akebia quinata et Akebia trifoliata.",other,inanimate,inanimate,other,0,False
+ws_3_lessive__nom__1,lessive,"Linge sale qui doit être lessivé, qui a été lavé.",other,inanimate,inanimate,other,0,False
+ws_1_bief__nom__1,bief,"Portion d’un canal de navigation ou d’une rivière canalisée comprise entre deux écluses, deux barrages ou deux chutes.",other,inanimate,inanimate,other,0,False
+ws_2_vaisselle__nom__1,vaisselle,Objets en métal précieux servant à l’usage de la table d’un seigneur.,other,inanimate,inanimate,other,0,False
+ws_22_pièce__nom__1,pièce,"Morceau découpé dans un animal. → voir pièce de bœuf, pièce de volaille et pièce du boucher",other,inanimate,inanimate,other,2,False
+ws_23_pièce__nom__1,pièce,Part de tarte.,other,inanimate,inanimate,other,2,False
+ws_49_pièce__nom__1,pièce,Morceau de bœuf non présentable mais particulièrement goûteux. → voir pièce du boucher,other,inanimate,inanimate,other,2,False
+ws_2_vers__nom__1,vers,L’ensemble de la poésie d’un auteur ou d’une école.,other,information,information,other,0,False
+ws_1_IFC__nom__1,IFC,Internet Foundation Classes : bibliothèque graphique Java.,other,information,information,other,0,False
+ws_1_groupement_d’éléments_palindromiques_et_d’espaceurs__nom__1,groupement_d’éléments_palindromiques_et_d’espaceurs,"Série de courtes répétitions palindromiques nucléotidiques, régulièrement séparées par des espaceurs et présentes dans le chromosome de nombreuses archées et bactéries.",other,information,inanimate,other,0,False
+ws_4_cas__nom__1,cas,Définition manquante ou à compléter. (Ajouter),other,information,dynamic_situation,other,61,False
+ws_36_pièce__nom__1,pièce,Contenu d’un tel tonneau.,other,quantity,quantity,other,2,False
+ws_4_module__nom__1,module,Sous-ensemble.,other,quantity,information,other,1,False
+ws_6_voisinage__nom__1,voisinage,Ensemble des rapports existant entre les personnes habitant à proximité les unes des autres ; comportement des voisins.,other,stative_situation,stative_situation,other,2,False
+ws_1_SSE__nom__1,SSE,Sud-sud-est.,quantity,dynamic_situation,quantity,quantity,0,False
+ws_2_faîte__nom__1,faîte,Sommet de certaines choses qui ont de l’élévation.,quantity,inanimate,inanimate,quantity,0,False
+ws_2_module__nom__1,module,Tout ce qui sert à mesurer.,quantity,inanimate,quantity,quantity,1,False
+ws_1_sigmoïde__nom__2,sigmoïde,Fonction représentée par une courbe en forme de S.,quantity,information,information,quantity,0,False
+ws_12_pièce__nom__1,pièce,Élément extrait d’un ensemble d’éléments de même nature.,quantity,information,inanimate,quantity,2,False
+ws_2_indice__nom__1,indice,Nombre permettant un classement ou une indexation.,quantity,information,quantity,quantity,1,False
+ws_3_ronron__nom__1,ronron,Façon pompeuse et monotone de déclamer.,stative_situation,dynamic_situation,dynamic_situation*information,attribute,0,False
+ws_2_voisinage__nom__1,voisinage,Lieu situé à proximité d’un autre.,stative_situation,inanimate,inanimate,relation,2,False
+ws_14_couverture__nom__1,couverture,"Zones où peut être activé service téléphonique ou internet, ou un émetteur de radio ou télévision.",stative_situation,inanimate,inanimate,state,1,False
+ws_9_couverture__nom__1,couverture,Fausse identité endossée ponctuellement par un agent secret ou un policier en mission d’infiltration.,stative_situation,inanimate*information,information,state,1,False
+ws_13_couverture__nom__1,couverture,"La partie d’une surface, d’un territoire, d’une population, d’un ensemble qui est concerné par un service, une modification ou une intervention quelconque, souvent exprimé en termes d’un pourcentage ou d’une fraction.",stative_situation,quantity,quantity,attribute,1,False
+ws_2_trentaine__nom__1,trentaine,L’âge de trente ans.,stative_situation,time,time,attribute,0,False

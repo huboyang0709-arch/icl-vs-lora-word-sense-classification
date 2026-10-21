@@ -1,0 +1,13 @@
+run,repeat,split,n,lemma,modules,output,accuracy,macro_f1,invalid_rate,adapter_saved,preds_saved,used_in_report,source,note
+L1,1,rand-dev,570,True,attn+mlp,generation,0.868421052631579,0.6740697592014993,0.0,yes (L1/L1_adapter),yes,yes,results_summary.csv row 2,adapter on disk is this run (test-eval sanity check: 0.6741)
+L1,2,rand-dev,570,True,attn+mlp,generation,0.8614035087719298,0.668436677291813,0.0,no,no,yes (run-to-run variation),results_summary.csv row 3,identical settings to run 1
+L2,1,rand-dev,570,False,attn+mlp,generation,0.8456140350877193,0.674766973899838,0.0,yes (L2/L2_adapter),yes,yes,results_summary.csv row 4,selected on rand-dev macro-F1
+L3,1,rand-dev,570,True,attn,generation,0.8456140350877193,0.6490502645701013,0.0,no,no,yes (run-to-run variation),L3/results_summary.csv row 1,
+L3,2,rand-dev,570,True,attn,generation,0.8526315789473684,0.6619882825652486,0.0,yes (L3/L3_adapter),yes,yes,L3/results_summary.csv row 2,L3_rand-dev_preds.csv corresponds to this run
+L4,1,rand-dev,570,True,attn+mlp,classification head,0.8579,0.6611,0.0,no (lost),no (lost),yes,result-L4-lora-cls-head.ipynb (printed output),only 4 decimals available: files lost after a Kaggle disconnection
+L1,1,rand-test,678,True,attn+mlp,generation,0.8672566371681416,0.7304175031361503,0.0,yes,yes,yes,test_output/L1_rand-test_preds.csv,
+L1,1,freq-test,1521,True,attn+mlp,generation,0.7567389875082183,0.6958250306615507,0.0,yes,yes,no,test_output/L1_freq-test_preds.csv,"all 1,521 senses, including 4 with an empty definition"
+L1,1,freq-test,1517,True,attn+mlp,generation,0.7587343441001978,0.6976372351004415,0.0,yes,yes,yes,test_output/L1_freq-test_preds.csv,"4 senses with an empty definition excluded, as in the ICL evaluation"
+L2,1,rand-test,678,False,attn+mlp,generation,0.8539823008849557,0.7169187049255719,0.0,yes,yes,yes,test_output/L2_rand-test_preds.csv,
+L2,1,freq-test,1521,False,attn+mlp,generation,0.7186061801446417,0.6458143120181037,0.0,yes,yes,no,test_output/L2_freq-test_preds.csv,"all 1,521 senses, including 4 with an empty definition"
+L2,1,freq-test,1517,False,attn+mlp,generation,0.7205009887936717,0.6475466474756306,0.0,yes,yes,yes,test_output/L2_freq-test_preds.csv,"4 senses with an empty definition excluded, as in the ICL evaluation"
