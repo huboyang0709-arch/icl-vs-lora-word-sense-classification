@@ -1,0 +1,15 @@
+,support,support,precision,precision,recall,recall,f1,f1
+split,freq-test,rand-test,freq-test,rand-test,freq-test,rand-test,freq-test,rand-test
+label,,,,,,,,
+animate,127.0,218.0,0.973,0.973,0.85,0.986,0.908,0.979
+dynamic_situation,353.0,77.0,0.839,0.909,0.841,0.779,0.84,0.839
+dynamic_situation*information,46.0,3.0,0.522,0.4,0.522,0.667,0.522,0.5
+inanimate,317.0,214.0,0.803,0.902,0.915,0.907,0.855,0.904
+inanimate*information,37.0,17.0,0.722,0.778,0.703,0.824,0.712,0.8
+information,163.0,45.0,0.678,0.68,0.736,0.756,0.706,0.716
+institution,28.0,7.0,0.394,0.7,0.929,1.0,0.553,0.824
+other,163.0,26.0,0.698,0.333,0.227,0.115,0.343,0.171
+possession,22.0,3.0,0.708,0.6,0.773,1.0,0.739,0.75
+quantity,46.0,14.0,0.767,0.533,0.5,0.571,0.605,0.552
+stative_situation,196.0,47.0,0.699,0.732,0.852,0.872,0.768,0.796
+time,19.0,7.0,0.8,0.875,0.842,1.0,0.821,0.933

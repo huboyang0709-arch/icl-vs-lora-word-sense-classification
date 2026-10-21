@@ -1,0 +1,11 @@
+run_name,split,accuracy,macro_f1,invalid_rate,config
+E1,rand-dev,0.23333333333333334,0.1572863503993845,0.0912280701754386,"{'prompt_language': 'en', 'use_lemma': True, 'few_shot': False}"
+E2,rand-dev,0.2543859649122807,0.18973142866002998,0.08070175438596491,"{'prompt_language': 'en', 'use_lemma': False, 'few_shot': False}"
+E3,rand-dev,0.5,0.2827352327029827,0.043859649122807015,"{'prompt_language': 'en', 'use_lemma': True, 'few_shot': True}"
+E4,rand-dev,0.5087719298245614,0.2754085073721863,0.021052631578947368,"{'prompt_language': 'en', 'use_lemma': False, 'few_shot': True}"
+E5,rand-dev,0.15789473684210525,0.12971388150065957,0.14912280701754385,"{'prompt_language': 'fr', 'use_lemma': True, 'few_shot': False}"
+E6,rand-dev,0.16666666666666666,0.18869063437053454,0.12456140350877193,"{'prompt_language': 'fr', 'use_lemma': False, 'few_shot': False}"
+E7,rand-dev,0.4982456140350877,0.3083124794005218,0.02456140350877193,"{'prompt_language': 'fr', 'use_lemma': True, 'few_shot': True}"
+E8,rand-dev,0.5157894736842106,0.2911606313076901,0.021052631578947368,"{'prompt_language': 'fr', 'use_lemma': False, 'few_shot': True}"
+E7,rand-test,0.5191740412979351,0.3671753232445047,0.022123893805309734,"{'prompt_language': 'fr', 'use_lemma': True, 'few_shot': True}"
+E7,freq-test,0.32827949901120634,0.2855297141461519,0.03691496374423204,"{'prompt_language': 'fr', 'use_lemma': True, 'few_shot': True}"

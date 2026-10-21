@@ -1,0 +1,15 @@
+# Large or regenerable files
+*.safetensors
+*.zip
+checkpoint*/
+*_adapter/
+unsloth_compiled_cache/
+data/*.tsv.gz
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Drafts
+*.docx
+~$*
